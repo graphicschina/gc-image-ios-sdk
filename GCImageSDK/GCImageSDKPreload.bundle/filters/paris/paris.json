@@ -1,0 +1,18 @@
+{
+    "interface_id":"10000000",
+    "filter_id":"10000002",
+    "filter_category_id":"00000001",
+    "filter_name":"Paris",
+    "filter_description":"Paris",
+    "filter_display_name":"Paris",
+    "filter_class_name":"GCCImageFilterClass2",
+    "filter_icon":"gc_image_filter_paris.png",
+    "filter_supported_ios_version":"5.0",
+    "filter_supported_iphone_model":"4",
+    "filter_supported_selection_style":"swipe",
+    "filter_enabled":"1",
+    "filter_parameters": {
+        "filter_lut_name":"paris",
+        "filter_lut_image":"gc_image_filter_paris_palette.png"
+    }
+}

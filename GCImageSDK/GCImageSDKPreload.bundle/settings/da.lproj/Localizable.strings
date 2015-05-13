@@ -1,0 +1,49 @@
+//
+//  Localizable.strings(Danish)
+//  Resources
+//
+//  GCImageSDK
+//
+//  Created by Graphics China on 14-7-8.
+//  Copyright (c) 2014年 Graphics China. All rights reserved.
+//
+
+"rc_settings_image_quality" = "billedkvalitet";
+"rc_settings_auto_save_to_photo_library" = "Auto Save Til App Album";
+"rc_settings_image_quality_low_definition" = "1248px (Generelt)";
+"rc_settings_image_quality_standard_definition" = "1800px (Standard)";
+"rc_settings_image_quality_high_definition" = "2448px (HD)";
+"rc_settings_support_screen_rotation" = "Support Screen Rotation";
+"rc_settings_about" = "Om";
+"rc_settings_filter_selection_animation" = "Filter Selection Animation";
+"rc_settings_filter_selection_animation_none" = "Ingen";
+"rc_settings_filter_selection_animation_ripple" = "Ripple";
+"rc_settings_filter_selection_animation_cube" = "Cube";
+"rc_settings_filter_selection_animation_push" = "Push";
+"rc_settings_filter_selection_animation_movein" = "MoveIn";
+"rc_settings_filter_selection_animation_reveal" = "Reveal";
+"rc_settings_filter_selection_animation_fade" = "Fade";
+"rc_settings_filter_selection_animation_pagecurl" = "PageCurl";
+"rc_settings_filter_selection_animation_pageuncurl" = "PageUnCurl";
+"rc_settings_filter_selection_animation_suck" = "Suck";
+"rc_settings_filter_selection_animation_oglflip" = "Flip";
+"rc_settings_filter_selection_animation_camera_iris_hollow_open" = "Camera Iris Hollow Open";
+"rc_settings_filter_selection_animation_camera_iris_hollow_close" = "Camera Iris Hollow Close";
+"rc_settings_filter_selection_animation_curl_down" = "Curl Down";
+"rc_settings_filter_selection_animation_curl_up" = "krølle op";
+"rc_settings_filter_selection_animation_flip_from_left" = "Flip Fra venstre";
+"rc_settings_filter_selection_animation_flip_from_right" = "Flip Fra højre";
+"rc_settings_filter_selection_animation_direction" = "Filter Selection Animation retning";
+"rc_settings_filter_selection_animation_direction_from_left" = "Fra venstre";
+"rc_settings_filter_selection_animation_direction_from_right" = "Fra højre";
+"rc_settings_filter_selection_animation_direction_from_top" = "Fra bunden";
+"rc_settings_filter_selection_animation_direction_from_bottom" = "Fra toppen";
+"rc_settings_filter_selection_animation_duration" = "Filter Selection Animation Varighed";
+"rc_settings_filter_toolbar_locate_at_side" = "Når Landskab Toolbar finde på";
+"rc_settings_filter_toolbar_locate_at_left" = "left";
+"rc_settings_filter_toolbar_locate_at_right" = "Right";
+"rc_settings_current_theme_index" = "Theme Selection";
+"rc_settings_theme_default" = "Standard (Deep Space Grey)";
+"rc_settings_theme_light_pink" = "Cherry Pink";
+"rc_settings_theme_light_green" = "Clean Fresh Green";
+"rc_locale_suffix" = "DA";

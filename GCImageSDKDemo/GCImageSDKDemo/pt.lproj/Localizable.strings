@@ -1,0 +1,67 @@
+//
+//  Localizable.strings(Portuguese)
+//  Resources
+//
+//  GCImageSDK
+//
+//  Created by Jianhui Ren on 14-7-8.
+//  Copyright (c) 2014年 Graphics China. All rights reserved.
+//
+
+"rc_save" = "Salvar";
+"rc_image_picker_camera" = "Camera";
+"rc_image_picker_photo_library" = "Photo Library";
+"rc_settings_filter_selection" = "Selection Filter";
+"rc_crop_constrain_original" = "Original";
+"rc_crop_constrain_square" = "Quadrado";
+"rc_crop_constrain_2x3" = "2:3";
+"rc_crop_constrain_3x2" = "3:2";
+"rc_crop_constrain_3x5" = "3:5";
+"rc_crop_constrain_5x3" = "5:3";
+"rc_crop_constrain_3x4" = "3:4";
+"rc_crop_constrain_4x3" = "4:3";
+"rc_crop_constrain_4x5" = "4:5";
+"rc_crop_constrain_5x4" = "5:4";
+"rc_crop_constrain_5x7" = "5:7";
+"rc_crop_constrain_7x5" = "7:5";
+"rc_crop_constrain_16x9" = "16:9";
+"rc_crop_constrain_9x16" = "9:16";
+"rc_launch_screen_start_filtering_journey" = "INICIAR";
+"rc_save_title" = "Parabéns!";
+"rc_save_message" = "A foto foi salva no álbum: %@";
+"rc_save_button_ok" = "OK";
+"rc_settings_speed_fast" = "Fast";
+"rc_settings_speed_slow" = "Slow";
+"rc_launch_screen_slogan" = "Pode ser mais bonito!";
+"rc_launch_screen_slogan_powered_by" = "Co-Gráficos é alimentado por GCImageSDK™";
+"rc_launch_screen_gcimagesdk_slogan" = "Faça o seu app uma grande primeira impressão!";
+"rc_launch_screen_ads_invest_us" = "Invest Us";
+"rc_launch_screen_ads_technology" = "Tecnologia";
+"rc_launch_screen_ads_business" = "Negócios";
+"rc_launch_screen_ads_contact_us_by_email" = "support@graphicschina.com";
+"rc_introduction_graphics_china" = "Graphics China";
+"rc_introduction_graphics_china_copyright" = "Copyright@2015 Graphics China. All Rights Reserved.";
+"rc_introduction_graphics_china_leading" = "Leading tecnologia gráfica móvel global";
+"rc_introduction_gcimagesdk" = "GCImageSDK";
+"rc_introduction_open_platform" = "SDK Platform Abrir imagem";
+"rc_introduction_permanent_free" = "Livre Permanente";
+"rc_introduction_beautiful" = "Faz Apps Beautiful";
+"rc_introduction_powerful" = "potente filtro de imagem";
+"rc_introduction_stable" = "estável";
+"rc_introduction_efficient" = "eficiente";
+"rc_introduction_easy_to_integrate" = "Easy para Integrar";
+"rc_introduction_even_two_lines_code" = "Mesmo 2 Código Line";
+"rc_introduction_create_and_present" = "Criar o Controller, e depois Presente";
+"rc_introduction_embedded_filter_framework" = "Biblioteca Filtro Incorporado";
+"rc_introduction_embedded_full_functional_ui" = "Incorporado com UI Funcional Full";
+"rc_introduction_ui_style_can_be_changed" = "Style UI pode ser mudado de acordo";
+"rc_introduction_color_category" = "Color";
+"rc_introduction_blend_category" = "mistura";
+"rc_introduction_frame_category" = "Frame";
+"rc_introduction_distort_category" = "Distort";
+"rc_introduction_blur_category" = "borrão";
+"rc_introduction_renews_continually" = "continuamente renova...";
+"rc_introduction_skip" = "Ir";
+"rc_introduction_let_app_create_great_images" = "Deixe seu App para criar grandes imagens facilmente";
+"rc_introduction_recommend_us" = "Por favor, recomendo GCImageSDK a App Developers você sabe!";
+"rc_introduction_find_us" = "Pesquisar 'GCImageSDK' no Google/Baidu/Yahoo!/Yandex/...";

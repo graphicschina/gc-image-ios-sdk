@@ -1,0 +1,49 @@
+//
+//  Localizable.strings(Russian)
+//  Resources
+//
+//  GCImageSDK
+//
+//  Created by Graphics China on 14-7-8.
+//  Copyright (c) 2014年 Graphics China. All rights reserved.
+//
+
+"rc_settings_image_quality" = "Качество изображения";
+"rc_settings_auto_save_to_photo_library" = "Auto Save To App Альбом";
+"rc_settings_image_quality_low_definition" = "1248px (General)";
+"rc_settings_image_quality_standard_definition" = "1800px (Standard)";
+"rc_settings_image_quality_high_definition" = "2448px (HD)";
+"rc_settings_support_screen_rotation" = "Поддержка Поворот экрана";
+"rc_settings_about" = "О";
+"rc_settings_filter_selection_animation" = "выбора фильтра анимации";
+"rc_settings_filter_selection_animation_none" = "None";
+"rc_settings_filter_selection_animation_ripple" = "Ripple";
+"rc_settings_filter_selection_animation_cube" = "Куб";
+"rc_settings_filter_selection_animation_push" = "Нажмите";
+"rc_settings_filter_selection_animation_movein" = "MoveIn";
+"rc_settings_filter_selection_animation_reveal" = "Reveal";
+"rc_settings_filter_selection_animation_fade" = "Fade";
+"rc_settings_filter_selection_animation_pagecurl" = "PageCurl";
+"rc_settings_filter_selection_animation_pageuncurl" = "PageUnCurl";
+"rc_settings_filter_selection_animation_suck" = "сосать";
+"rc_settings_filter_selection_animation_oglflip" = "флип";
+"rc_settings_filter_selection_animation_camera_iris_hollow_open" = "Camera Iris Hollow Open";
+"rc_settings_filter_selection_animation_camera_iris_hollow_close" = "Camera Iris Hollow Закрыть";
+"rc_settings_filter_selection_animation_curl_down" = "Curl вниз";
+"rc_settings_filter_selection_animation_curl_up" = "Curl Up";
+"rc_settings_filter_selection_animation_flip_from_left" = "флип Слева";
+"rc_settings_filter_selection_animation_flip_from_right" = "Flip справа";
+"rc_settings_filter_selection_animation_direction" = "Фильтр Выбор анимации направление";
+"rc_settings_filter_selection_animation_direction_from_left" = "Слева";
+"rc_settings_filter_selection_animation_direction_from_right" = "справа";
+"rc_settings_filter_selection_animation_direction_from_top" = "Снизу";
+"rc_settings_filter_selection_animation_direction_from_bottom" = "Сверху";
+"rc_settings_filter_selection_animation_duration" = "Фильтр Выбор Анимация Продолжительность";
+"rc_settings_filter_toolbar_locate_at_side" = "Если Пейзаж Toolbar Найдите AT";
+"rc_settings_filter_toolbar_locate_at_left" = "Left";
+"rc_settings_filter_toolbar_locate_at_right" = "Right";
+"rc_settings_current_theme_index" = "Выбор темы";
+"rc_settings_theme_default" = "Default (Deep Space Grey)";
+"rc_settings_theme_light_pink" = "Cherry Pink";
+"rc_settings_theme_light_green" = "Clean Fresh Green";
+"rc_locale_suffix" = "RU";

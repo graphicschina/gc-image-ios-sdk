@@ -1,0 +1,49 @@
+//
+//  Localizable.strings(Korean)
+//  Resources
+//
+//  GCImageSDK
+//
+//  Created by Graphics China on 14-7-8.
+//  Copyright (c) 2014年 Graphics China. All rights reserved.
+//
+
+"rc_settings_image_quality" = "이미지 품질";
+"rc_settings_auto_save_to_photo_library"= "앱 앨범에 자동 저장";
+"rc_settings_image_quality_low_definition" = "1248px (일반)";
+"rc_settings_image_quality_standard_definition" = "1800px (표준)";
+"rc_settings_image_quality_high_definition" = "2448px (HD)";
+"rc_settings_support_screen_rotation" = "지원 화면 회전";
+"rc_settings_about"= "정보";
+"rc_settings_filter_selection_animation" = "선택 애니메이션 필터";
+"rc_settings_filter_selection_animation_none" = "없음";
+"rc_settings_filter_selection_animation_ripple" = "리플";
+"rc_settings_filter_selection_animation_cube" = "큐브";
+"rc_settings_filter_selection_animation_push" = "푸시";
+"rc_settings_filter_selection_animation_movein" = "이동";
+"rc_settings_filter_selection_animation_reveal" = "계시";
+"rc_settings_filter_selection_animation_fade" = "페이드";
+"rc_settings_filter_selection_animation_pagecurl" = "페이지 컬";
+"rc_settings_filter_selection_animation_pageuncurl" = "페이지를 펴십시오";
+"rc_settings_filter_selection_animation_suck" = "빨아";
+"rc_settings_filter_selection_animation_oglflip" = "플립";
+"rc_settings_filter_selection_animation_camera_iris_hollow_open"= "카메라 아이리스 빈 열기";
+"rc_settings_filter_selection_animation_camera_iris_hollow_close"= "카메라 아이리스 중공 닫기";
+"rc_settings_filter_selection_animation_curl_down"= "컬 다운";
+"rc_settings_filter_selection_animation_curl_up"= "컬 업";
+"rc_settings_filter_selection_animation_flip_from_left"= "왼쪽에서 플립";
+"rc_settings_filter_selection_animation_flip_from_right"= "오른쪽에서 플립";
+"rc_settings_filter_selection_animation_direction" = "선택 애니메이션 방향 필터";
+"rc_settings_filter_selection_animation_direction_from_left" = "왼쪽에서";
+"rc_settings_filter_selection_animation_direction_from_right" = "오른쪽";
+"rc_settings_filter_selection_animation_direction_from_top" = "아래에서";
+"rc_settings_filter_selection_animation_direction_from_bottom" = "위로부터";
+"rc_settings_filter_selection_animation_duration" = "선택 애니메이션 기간 필터";
+"rc_settings_filter_toolbar_locate_at_side" = "언제 풍경 도구 모음에서 찾기";
+"rc_settings_filter_toolbar_locate_at_left" = "왼쪽";
+"rc_settings_filter_toolbar_locate_at_right" = "오른쪽";
+"rc_settings_current_theme_index"= "테마 선택";
+"rc_settings_theme_default"= "기본 (딥 스페이스 그레이)";
+"rc_settings_theme_light_pink"= "체리 핑크";
+"rc_settings_theme_light_green"= "청소 신선한 녹색";
+"rc_locale_suffix" = "KO";

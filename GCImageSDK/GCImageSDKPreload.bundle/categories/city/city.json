@@ -1,0 +1,8 @@
+{
+    "filter_category_id":"00000001",
+    "filter_category_name":"City",
+    "filter_category_description":"City Family",
+    "filter_category_display_name":"City",
+    "filter_category_icon":"gc_filter_category_city.png",
+    "filter_category_enabled":"1"
+}

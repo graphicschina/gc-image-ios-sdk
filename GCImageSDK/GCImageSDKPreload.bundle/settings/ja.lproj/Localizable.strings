@@ -1,0 +1,49 @@
+//
+//  Localizable.strings(Japanese)
+//  Resources
+//
+//  GCImageSDK
+//
+//  Created by Graphics China on 14-7-8.
+//  Copyright (c) 2014年 Graphics China. All rights reserved.
+//
+
+"rc_settings_image_quality" = "画質";
+"rc_settings_auto_save_to_photo_library" = "アプリアルバムに自動保存";
+"rc_settings_image_quality_low_definition" = "1248px（のようなもの）";
+"rc_settings_image_quality_standard_definition" = "1800px（標準）";
+"rc_settings_image_quality_high_definition" = "2448px（HD）";
+"rc_settings_support_screen_rotation" = "は画面の回転をサポートしています";
+"rc_settings_about" = "について";
+"rc_settings_filter_selection_animation" = "ムービーを選択し特殊効果";
+"rc_settings_filter_selection_animation_none" = "なし";
+"rc_settings_filter_selection_animation_ripple" = "水のリップル";
+"rc_settings_filter_selection_animation_cube" = "キューブ";
+"rc_settings_filter_selection_animation_push" = "プッシュ";
+"rc_settings_filter_selection_animation_movein" = "取材";
+"rc_settings_filter_selection_animation_reveal" = "キック";
+"rc_settings_filter_selection_animation_fade" = "フェード";
+"rc_settings_filter_selection_animation_pagecurl" = "ターン";
+"rc_settings_filter_selection_animation_pageuncurl" = "ダウン";
+"rc_settings_filter_selection_animation_suck" = "吸収";
+"rc_settings_filter_selection_animation_oglflip" = "フリップ";
+"rc_settings_filter_selection_animation_camera_iris_hollow_open" = "カメラアイリス中空オープン";
+"rc_settings_filter_selection_animation_camera_iris_hollow_close" = "カメラアイリス中空閉じる";
+"rc_settings_filter_selection_animation_curl_down" = "カールダウン";
+"rc_settings_filter_selection_animation_curl_up" = "カールアップ";
+"rc_settings_filter_selection_animation_flip_from_left"="左からフリップ";
+"rc_settings_filter_selection_animation_flip_from_right"="右からフリップ";
+"rc_settings_filter_selection_animation_direction" = "特殊効果を選択するアニメーション演出";
+"rc_settings_filter_selection_animation_direction_from_left" = "左から右に";
+"rc_settings_filter_selection_animation_direction_from_right" = "右から左へ";
+"rc_settings_filter_selection_animation_direction_from_top" = "ボトムアップ";
+"rc_settings_filter_selection_animation_direction_from_bottom" = "トップダウン";
+"rc_settings_filter_selection_animation_duration" = "のアニメーションの特殊効果を選択する際に";
+"rc_settings_filter_toolbar_locate_at_side" = "クロススクリーンエフェクトのツールバーが配置されたときに";
+"rc_settings_filter_toolbar_locate_at_left" = "左側";
+"rc_settings_filter_toolbar_locate_at_right" = "右側";
+"rc_settings_current_theme_index" = "テーマの選択";
+"rc_settings_theme_default" = "デフォルト（ディープ·スペース·グレー）";
+"rc_settings_theme_light_pink" = "チェリーピンク";
+"rc_settings_theme_light_green" = "クリーンフレッシュグリーン";
+"rc_locale_suffix" = "JA";

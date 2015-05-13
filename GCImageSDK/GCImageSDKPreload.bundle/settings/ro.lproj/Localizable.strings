@@ -1,0 +1,49 @@
+//
+//  Localizable.strings(Romanian)
+//  Resources
+//
+//  GCImageSDK
+//
+//  Created by Graphics China on 14-7-8.
+//  Copyright (c) 2014年 Graphics China. All rights reserved.
+//
+
+"rc_settings_image_quality" = "Calitate imagine";
+"rc_settings_auto_save_to_photo_library" = "Salvare Auto Pentru App album";
+"rc_settings_image_quality_low_definition" = "1248px (General)";
+"rc_settings_image_quality_standard_definition" = "1800px (Standard)";
+"rc_settings_image_quality_high_definition" = "2448px (HD)";
+"rc_settings_support_screen_rotation" = "Suport Screen Rotation";
+"rc_settings_about" = "Despre";
+"rc_settings_filter_selection_animation" = "Filtru Animație Selection";
+"rc_settings_filter_selection_animation_none" = "Niciuna";
+"rc_settings_filter_selection_animation_ripple" = "Ripple";
+"rc_settings_filter_selection_animation_cube" = "Cube";
+"rc_settings_filter_selection_animation_push" = "Push";
+"rc_settings_filter_selection_animation_movein" = "MoveIn";
+"rc_settings_filter_selection_animation_reveal" = "Reveal";
+"rc_settings_filter_selection_animation_fade" = "Fade";
+"rc_settings_filter_selection_animation_pagecurl" = "PageCurl";
+"rc_settings_filter_selection_animation_pageuncurl" = "PageUnCurl";
+"rc_settings_filter_selection_animation_suck" = "Suge";
+"rc_settings_filter_selection_animation_oglflip" = "Flip";
+"rc_settings_filter_selection_animation_camera_iris_hollow_open" = "Camera Iris Hollow Deschideți";
+"rc_settings_filter_selection_animation_camera_iris_hollow_close" = "Camera Iris Hollow Închide";
+"rc_settings_filter_selection_animation_curl_down" = "Curl Jos";
+"rc_settings_filter_selection_animation_curl_up" = "Curl Up";
+"rc_settings_filter_selection_animation_flip_from_left" = "Flip de la stânga";
+"rc_settings_filter_selection_animation_flip_from_right" = "Flip de la dreapta";
+"rc_settings_filter_selection_animation_direction" = "Filtru Animație Selecția Direcția";
+"rc_settings_filter_selection_animation_direction_from_left" = "De la stânga";
+"rc_settings_filter_selection_animation_direction_from_right" = "de la dreapta";
+"rc_settings_filter_selection_animation_direction_from_top" = "Din Jos";
+"rc_settings_filter_selection_animation_direction_from_bottom" = "de sus";
+"rc_settings_filter_selection_animation_duration" = "Filtru Animație Selecția Durata";
+"rc_settings_filter_toolbar_locate_at_side" = "Când Bara de instrumente Peisaj Găsiți La";
+"rc_settings_filter_toolbar_locate_at_left" = "stânga";
+"rc_settings_filter_toolbar_locate_at_right" = "dreapta";
+"rc_settings_current_theme_index" = "Tema de selecție";
+"rc_settings_theme_default" = "Implicit (Deep Space Grey)";
+"rc_settings_theme_light_pink" = "Cherry Pink";
+"rc_settings_theme_light_green" = "Clean Fresh Verde";
+"rc_locale_suffix" = "RO";

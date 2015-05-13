@@ -1,0 +1,49 @@
+//
+//  Localizable.strings(German)
+//  Resources
+//
+//  GCImageSDK
+//
+//  Created by Graphics China on 14-7-8.
+//  Copyright (c) 2014年 Graphics China. All rights reserved.
+//
+
+"rc_settings_image_quality" = "Bildqualität";
+"rc_settings_auto_save_to_photo_library" = "Auto Save To App Album";
+"rc_settings_image_quality_low_definition" = "1248px (General)";
+"rc_settings_image_quality_standard_definition" = "1800px (Standard)";
+"rc_settings_image_quality_high_definition" = "2448px (HD)";
+"rc_settings_support_screen_rotation" = "Unterstützung Bildschirmdrehung";
+"rc_settings_about" = "Über";
+"rc_settings_filter_selection_animation" = "Filterauswahl Animation";
+"rc_settings_filter_selection_animation_none" = "None";
+"rc_settings_filter_selection_animation_ripple" = "Ripple";
+"rc_settings_filter_selection_animation_cube" = "Cube";
+"rc_settings_filter_selection_animation_push" = "Push";
+"rc_settings_filter_selection_animation_movein" = "movein";
+"rc_settings_filter_selection_animation_reveal" = "Reveal";
+"rc_settings_filter_selection_animation_fade" = "Fade";
+"rc_settings_filter_selection_animation_pagecurl" = "PageCurl";
+"rc_settings_filter_selection_animation_pageuncurl" = "PageUnCurl";
+"rc_settings_filter_selection_animation_suck" = "Suck";
+"rc_settings_filter_selection_animation_oglflip" = "Flip";
+"rc_settings_filter_selection_animation_camera_iris_hollow_open" = "Kamera Iris Hohl Öffnen";
+"rc_settings_filter_selection_animation_camera_iris_hollow_close" = "Kamera Iris Hohl Schließen";
+"rc_settings_filter_selection_animation_curl_down" = "Curl-Down";
+"rc_settings_filter_selection_animation_curl_up" = "Einrollen";
+"rc_settings_filter_selection_animation_flip_from_left" = "Flip von links";
+"rc_settings_filter_selection_animation_flip_from_right" = "Flip Von Rechts";
+"rc_settings_filter_selection_animation_direction" = "Filterauswahl Animations Direction";
+"rc_settings_filter_selection_animation_direction_from_left" = "von links";
+"rc_settings_filter_selection_animation_direction_from_right" = "Von Rechts";
+"rc_settings_filter_selection_animation_direction_from_top" = "Von unten";
+"rc_settings_filter_selection_animation_direction_from_bottom" = "Von oben";
+"rc_settings_filter_selection_animation_duration" = "Filterauswahl Animationsdauer";
+"rc_settings_filter_toolbar_locate_at_side" = "Wenn Landschaft Toolbar Suchen Zu";
+"rc_settings_filter_toolbar_locate_at_left" = "left";
+"rc_settings_filter_toolbar_locate_at_right" = "Rechts";
+"rc_settings_current_theme_index" = "Themenauswahl ";
+"rc_settings_theme_default" = "Default (Deep Space Grau)";
+"rc_settings_theme_light_pink" = "Cherry Pink";
+"rc_settings_theme_light_green" = "Clean Fresh Green";
+"rc_locale_suffix" = "DE";

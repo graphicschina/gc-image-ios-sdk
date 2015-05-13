@@ -1,0 +1,49 @@
+//
+//  Localizable.strings(Traditional Chinese)
+//  Resources
+//
+//  GCImageSDK
+//
+//  Created by Graphics China on 14-7-8.
+//  Copyright (c) 2014年 Graphics China. All rights reserved.
+//
+
+"rc_settings_image_quality" = "圖片質量";
+"rc_settings_auto_save_to_photo_library" = "自動保存到 App 相冊";
+"rc_settings_image_quality_low_definition" = "1248px (壹般)";
+"rc_settings_image_quality_standard_definition" = "1800px (標準)";
+"rc_settings_image_quality_high_definition" = "2448px (高清)";
+"rc_settings_support_screen_rotation" = "支持屏幕旋轉";
+"rc_settings_about" = "關于";
+"rc_settings_filter_selection_animation" = "特效選擇動畫";
+"rc_settings_filter_selection_animation_none" = "無";
+"rc_settings_filter_selection_animation_ripple" = "水波紋";
+"rc_settings_filter_selection_animation_cube" = "立方體";
+"rc_settings_filter_selection_animation_push" = "推擠";
+"rc_settings_filter_selection_animation_movein" = "覆蓋";
+"rc_settings_filter_selection_animation_reveal" = "揭開";
+"rc_settings_filter_selection_animation_fade" = "淡化";
+"rc_settings_filter_selection_animation_pagecurl" = "上翻";
+"rc_settings_filter_selection_animation_pageuncurl" = "下翻";
+"rc_settings_filter_selection_animation_suck" = "吸收";
+"rc_settings_filter_selection_animation_oglflip" = "翻轉";
+"rc_settings_filter_selection_animation_camera_iris_hollow_open" = "开镜头";
+"rc_settings_filter_selection_animation_camera_iris_hollow_close" = "关镜头";
+"rc_settings_filter_selection_animation_curl_down" = "向下翻页";
+"rc_settings_filter_selection_animation_curl_up" = "向上翻页";
+"rc_settings_filter_selection_animation_flip_from_left" = "向右翻转";
+"rc_settings_filter_selection_animation_flip_from_right" = "向左翻转";
+"rc_settings_filter_selection_animation_direction" = "特效選擇動畫方向";
+"rc_settings_filter_selection_animation_direction_from_left" = "從左至右";
+"rc_settings_filter_selection_animation_direction_from_right" = "從右至左";
+"rc_settings_filter_selection_animation_direction_from_top" = "從下至上";
+"rc_settings_filter_selection_animation_direction_from_bottom" = "從上至下";
+"rc_settings_filter_selection_animation_duration" = "特效選擇動畫時長";
+"rc_settings_filter_toolbar_locate_at_side" = "橫屏時特效工具欄位于";
+"rc_settings_filter_toolbar_locate_at_left" = "左側";
+"rc_settings_filter_toolbar_locate_at_right" = "右側";
+"rc_settings_current_theme_index" = "主題選擇";
+"rc_settings_theme_default" = "默認(深空灰)";
+"rc_settings_theme_light_pink" = "櫻花粉";
+"rc_settings_theme_light_green" = "清新綠";
+"rc_locale_suffix" = "HK";

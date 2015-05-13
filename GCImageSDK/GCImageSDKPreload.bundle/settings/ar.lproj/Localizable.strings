@@ -1,0 +1,49 @@
+//
+//  Localizable.strings(Arabic)
+//  Resources
+//
+//  GCImageSDK
+//
+//  Created by Graphics China on 14-7-8.
+//  Copyright (c) 2014年 Graphics China. All rights reserved;
+//
+
+"rc_settings_image_quality" = "جودة الصورة";
+"rc_settings_auto_save_to_photo_library" = "تلقائي حفظ إلى تطبيقات الألبوم";
+"rc_settings_image_quality_low_definition" = "1248px (عامة)";
+"rc_settings_image_quality_standard_definition" = "1800px (قياسي)";
+"rc_settings_image_quality_high_definition" = "2448px (HD)";
+"rc_settings_support_screen_rotation" = "دعم دوران الشاشة";
+"rc_settings_about" = "حول";
+"rc_settings_filter_selection_animation" = "تصفية اختيار الرسوم المتحركة";
+"rc_settings_filter_selection_animation_none" = "لا شيء";
+"rc_settings_filter_selection_animation_ripple" = "تموج";
+"rc_settings_filter_selection_animation_cube" = "مكعب";
+"rc_settings_filter_selection_animation_push" = "دفع";
+"rc_settings_filter_selection_animation_movein" = "MoveIn";
+"rc_settings_filter_selection_animation_reveal" = "تكشف";
+"rc_settings_filter_selection_animation_fade" = "تتلاشى";
+"rc_settings_filter_selection_animation_pagecurl" = "PageCurl";
+"rc_settings_filter_selection_animation_pageuncurl" = "PageUnCurl";
+"rc_settings_filter_selection_animation_suck" = "الإمتصاص";
+"rc_settings_filter_selection_animation_oglflip" = "فليب";
+"rc_settings_filter_selection_animation_camera_iris_hollow_open" = "كاميرا إيريس الجوف فتح";
+"rc_settings_filter_selection_animation_camera_iris_hollow_close" = "كاميرا إيريس الجوف إغلاق";
+"rc_settings_filter_selection_animation_curl_down" = "الضفيرة داون";
+"rc_settings_filter_selection_animation_curl_up" = "عقص";
+"rc_settings_filter_selection_animation_flip_from_left" = "فليب من اليسار";
+"rc_settings_filter_selection_animation_flip_from_right" = "فليب من اليمين";
+"rc_settings_filter_selection_animation_direction" = "تصفية اختيار الرسوم المتحركة الاتجاه";
+"rc_settings_filter_selection_animation_direction_from_left" = "من اليسار";
+"rc_settings_filter_selection_animation_direction_from_right" = "من اليمين";
+"rc_settings_filter_selection_animation_direction_from_top" = "من أسفل";
+"rc_settings_filter_selection_animation_direction_from_bottom" = "من أعلى";
+"rc_settings_filter_selection_animation_duration" = "اختيار مرشح للرسوم المتحركة المدة";
+"rc_settings_filter_toolbar_locate_at_side" = "عندما حدد موقع شريط الأدوات المناظر الطبيعية في";
+"rc_settings_filter_toolbar_locate_at_left" = "اليسار";
+"rc_settings_filter_toolbar_locate_at_right" = "الحق";
+"rc_settings_current_theme_index" = "موضوع اختيار";
+"rc_settings_theme_default" = "افتراضي (ديب الفضاء رمادي)";
+"rc_settings_theme_light_pink" = "الكرز الوردي";
+"rc_settings_theme_light_green" = "النظيفة الطازجة الخضراء";
+"rc_locale_suffix" = "AR";

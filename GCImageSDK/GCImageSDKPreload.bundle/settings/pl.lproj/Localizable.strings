@@ -1,0 +1,49 @@
+//
+//  Localizable.strings(Polish)
+//  Resources
+//
+//  GCImageSDK
+//
+//  Created by Graphics China on 14-7-8.
+//  Copyright (c) 2014年 Graphics China. All rights reserved.
+//
+
+"rc_settings_image_quality" = "Jakość obrazu";
+"rc_settings_auto_save_to_photo_library" = "Auto Save Do App Album";
+"rc_settings_image_quality_low_definition" = "1248px (ogólne)";
+"rc_settings_image_quality_standard_definition" = "1800px (Standard)";
+"rc_settings_image_quality_high_definition" = "2448px (HD)";
+"rc_settings_support_screen_rotation" = "Pomoc Obrót ekranu";
+"rc_settings_about" = "O";
+"rc_settings_filter_selection_animation" = "Filtr wyboru Animation";
+"rc_settings_filter_selection_animation_none" = "Brak";
+"rc_settings_filter_selection_animation_ripple" = "Ripple";
+"rc_settings_filter_selection_animation_cube" = "Cube";
+"rc_settings_filter_selection_animation_push" = "push";
+"rc_settings_filter_selection_animation_movein" = "MoveIn";
+"rc_settings_filter_selection_animation_reveal" = "Reveal";
+"rc_settings_filter_selection_animation_fade" = "Fade";
+"rc_settings_filter_selection_animation_pagecurl" = "PageCurl";
+"rc_settings_filter_selection_animation_pageuncurl" = "PageUnCurl";
+"rc_settings_filter_selection_animation_suck" = "Suck";
+"rc_settings_filter_selection_animation_oglflip" = "Odwróć";
+"rc_settings_filter_selection_animation_camera_iris_hollow_open" = "Aparat Iris Hollow Otwórz";
+"rc_settings_filter_selection_animation_camera_iris_hollow_close" = "Aparat Iris Hollow Zamknij";
+"rc_settings_filter_selection_animation_curl_down" = "Curl Down";
+"rc_settings_filter_selection_animation_curl_up" = "zwija się";
+"rc_settings_filter_selection_animation_flip_from_left" = "Flip Od lewej";
+"rc_settings_filter_selection_animation_flip_from_right" = "Odwróć się od prawej";
+"rc_settings_filter_selection_animation_direction" = "Wybór filtra kierunek Animacja";
+"rc_settings_filter_selection_animation_direction_from_left" = "Od lewej";
+"rc_settings_filter_selection_animation_direction_from_right" = "od prawej";
+"rc_settings_filter_selection_animation_direction_from_top" = "od dołu";
+"rc_settings_filter_selection_animation_direction_from_bottom" = "Z góry";
+"rc_settings_filter_selection_animation_duration" = "Filtr Wybór Animacja Czas trwania";
+"rc_settings_filter_toolbar_locate_at_side" = "Po Krajobraz Toolbar zlokalizować w";
+"rc_settings_filter_toolbar_locate_at_left" = "left";
+"rc_settings_filter_toolbar_locate_at_right" = "prawo";
+"rc_settings_current_theme_index" = "Wybór tematu";
+"rc_settings_theme_default" = "Domyślna (Deep Space Szary)";
+"rc_settings_theme_light_pink" = "Cherry różowy";
+"rc_settings_theme_light_green" = "Clean Fresh Green";
+"rc_locale_suffix" = "PL";

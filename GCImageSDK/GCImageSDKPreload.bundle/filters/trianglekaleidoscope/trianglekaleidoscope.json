@@ -1,0 +1,76 @@
+{
+    "interface_id":"10000000",
+    "filter_category_id":"00000007",
+    "filter_id":"10000006",
+    "filter_name":"TriangleKaleidoscope",
+    "filter_description":"TriangleKaleidoscope",
+    "filter_display_name":"Kaleidoscope",
+    "filter_class_name":"GCCImageFilterClass9",
+    "filter_icon":"gc_image_filter_trianglekaleidoscope.png",
+    "filter_supported_ios_version":"6.0",
+    "filter_supported_iphone_model":"4",
+    "filter_supported_selection_style":"swipe",
+    "filter_enabled":"1",
+    "filter_parameters": {
+        "inputSize":500,
+        "inputRotation":0.5,
+        "inputDecay":0.5
+    },
+    "filter_parameter_ranges": [
+        {
+        "inputSize": {
+            "maxinum_value":1000.0,
+            "minimum_value":0.0
+            }
+        },
+        {
+        "inputRotation": {
+            "maxinum_value":1.0,
+            "minimum_value":0.0
+            }
+        },
+        {
+        "inputDecay": {
+            "maxinum_value":1.0,
+            "minimum_value":0.0
+            }
+        }
+    ],
+    "filter_overlay_control": {
+        "filter_control_class_name":"GCGeneralOverlayView",
+        "filter_control_frame":"{{0, 200}, {320, 170}}",
+        "filter_control_alpha":0.3
+    },
+    "filter_controls": [
+        {
+            "filter_control": {
+                "filter_control_class_name":"GCSlider",
+                "filter_control_frame":"{{0, 10}, {320, 50}}",
+                "filter_control_parameter_name":"inputSize",
+                "filter_control_maximum_value":1000.0,
+                "filter_control_minimum_value":0.0,
+                "filter_control_default_value":500.0
+                }
+        },
+        {
+            "filter_control": {
+                "filter_control_class_name":"GCSlider",
+                "filter_control_frame":"{{0, 60}, {320, 50}}",
+                "filter_control_parameter_name":"inputRotation",
+                "filter_control_maximum_value":1.0,
+                "filter_control_minimum_value":0.0,
+                "filter_control_default_value":0.5
+            }
+        },
+        {
+            "filter_control": {
+                "filter_control_class_name":"GCSlider",
+                "filter_control_frame":"{{0, 110}, {320, 50}}",
+                "filter_control_parameter_name":"inputDecay",
+                "filter_control_maximum_value":1.0,
+                "filter_control_minimum_value":0.0,
+                "filter_control_default_value":0.5
+            }
+        }
+    ]
+}

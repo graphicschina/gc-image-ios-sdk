@@ -1,0 +1,18 @@
+{
+    "interface_id":"20000000",
+    "filter_category_id":"00000011",
+    "filter_id":"11000003",
+    "filter_name":"TextureMultiplyBlend",
+    "filter_description":"TextureMultiplyBlend",
+    "filter_display_name":"Multiply",
+    "filter_class_name":"GCGImageFilterClass3",
+    "filter_icon":"gc_image_filter_multiply_blend.png",
+    "filter_supported_ios_version":"5.0",
+    "filter_supported_iphone_model":"4",
+    "filter_supported_selection_style":"swipe",
+    "filter_enabled":"1",
+    "filter_parameters": {
+        "filter_texture_blend_name":"texturemultiplyblend",
+        "filter_texture_blend_image":"gc_image_filter_texture_multiply_blend.jpg"
+    }
+}

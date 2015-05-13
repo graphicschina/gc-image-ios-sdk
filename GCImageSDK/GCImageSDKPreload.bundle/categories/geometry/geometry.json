@@ -1,0 +1,8 @@
+{
+    "filter_category_id":"00000005",
+    "filter_category_name":"Geometry",
+    "filter_category_description":"Geometry Family",
+    "filter_category_display_name":"Geometry",
+    "filter_category_icon":"gc_filter_category_geometry.png",
+    "filter_category_enabled":"1"
+}

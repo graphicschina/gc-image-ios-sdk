@@ -1,0 +1,19 @@
+{
+    "interface_id":"10000000",
+    "filter_category_id":"00000008",
+    "filter_id":"80000102",
+    "filter_name":"Postcard2",
+    "filter_description":"Postcard2",
+    "filter_display_name":"Postcard2",
+    "filter_class_name":"GCCImageFilterClass7",
+    "filter_icon":"gc_image_filter_postcard.png",
+    "filter_supported_ios_version":"5.0",
+    "filter_supported_iphone_model":"4",
+    "filter_supported_selection_style":"swipe",
+    "filter_enabled":"1",
+    "filter_parameters": {
+        "filter_frame_align_mode":"1",
+        "filter_frame_name":"postcard2",
+        "filter_frame_image":"gc_image_filte_postcard_frame.png"
+    }
+}

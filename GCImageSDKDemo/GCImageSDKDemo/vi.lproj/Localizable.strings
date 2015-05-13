@@ -1,0 +1,67 @@
+//
+//  Localizable.strings(Vietnamese)
+//  Resources
+//
+//  GCImageSDK
+//
+//  Created by Jianhui Ren on 14-7-8.
+//  Copyright (c) 2014年 Graphics China. All rights reserved.
+//
+
+"rc_save" = "Save";
+"rc_image_picker_camera" = "Camera";
+"rc_image_picker_photo_library" = "Photo Library";
+"rc_settings_filter_selection" = "Filter Selection";
+"rc_crop_constrain_original" = "gốc";
+"rc_crop_constrain_square" = "Quảng trường";
+"rc_crop_constrain_2x3" = "2:3";
+"rc_crop_constrain_3x2" = "3:2";
+"rc_crop_constrain_3x5" = "3:5";
+"rc_crop_constrain_5x3" = "5:3";
+"rc_crop_constrain_3x4" = "3:4";
+"rc_crop_constrain_4x3" = "4:3";
+"rc_crop_constrain_4x5" = "4:5";
+"rc_crop_constrain_5x4" = "5:4";
+"rc_crop_constrain_5x7" = "5:7";
+"rc_crop_constrain_7x5" = "7:5";
+"rc_crop_constrain_16x9" = "16:9";
+"rc_crop_constrain_9x16" = "09:16";
+"rc_launch_screen_start_filtering_journey" = "START";
+"rc_save_title" = "Chúc mừng!";
+"rc_save_message" = "Hình ảnh đã được lưu vào album: %@";
+"rc_save_button_ok" = "OK";
+"rc_settings_speed_fast" = "Fast";
+"rc_settings_speed_slow" = "chậm";
+"rc_launch_screen_slogan" = "IT CAN BE MORE BEAUTIFUL!";
+"rc_launch_screen_slogan_powered_by" = "CoĐồ họa được cung cấp bởi GCImageSDK™";
+"rc_launch_screen_gcimagesdk_slogan" = "Hãy ứng dụng của bạn một ấn tượng đầu tiên!";
+"rc_launch_screen_ads_invest_us" = "Invest hệ";
+"rc_launch_screen_ads_technology" = "Công nghệ";
+"rc_launch_screen_ads_business" = "kinh doanh";
+"rc_launch_screen_ads_contact_us_by_email" = "support@graphicschina.com";
+"rc_introduction_graphics_china" = "Graphics China";
+"rc_introduction_graphics_china_copyright" = "Copyright@2015 Graphics China. All Rights Reserved.";
+"rc_introduction_graphics_china_leading" = "Dẫn đầu công nghệ đồ họa di động toàn cầu";
+"rc_introduction_gcimagesdk" = "GCImageSDK";
+"rc_introduction_open_platform" = "Open ảnh SDK Platform";
+"rc_introduction_permanent_free" = "Permanent miễn phí";
+"rc_introduction_beautiful" = "Làm Apps Beautiful";
+"rc_introduction_powerful" = "Mạnh mẽ Image Filter";
+"rc_introduction_stable" = "ổn định";
+"rc_introduction_efficient" = "hiệu quả";
+"rc_introduction_easy_to_integrate" = "Easy để Tích hợp";
+"rc_introduction_even_two_lines_code" = "Ngay cả 2 Line Code";
+"rc_introduction_create_and_present" = "Tạo các điều khiển, và sau đó hiện tại";
+"rc_introduction_embedded_filter_framework" = "nhúng lọc Thư viện";
+"rc_introduction_embedded_full_functional_ui" = "nhúng với đầy đủ chức năng giao diện người dùng";
+"rc_introduction_ui_style_can_be_changed" = "Phong cách giao diện người dùng có thể được thay đổi Theo đó";
+"rc_introduction_color_category" = "Color";
+"rc_introduction_blend_category" = "Blend";
+"rc_introduction_frame_category" = "Frame";
+"rc_introduction_distort_category" = "Distort";
+"rc_introduction_blur_category" = "Blur";
+"rc_introduction_renews_continually" = "đổi mới Liên tục...";
+"rc_introduction_skip" = "Bỏ qua";
+"rc_introduction_let_app_create_great_images" = "Hãy App của bạn để tạo lớn hình ảnh một cách dễ dàng";
+"rc_introduction_recommend_us" = "Xin giới thiệu đến GCImageSDK App Developers bạn biết!";
+"rc_introduction_find_us" = "Tìm kiếm 'GCImageSDK' trên Google/Baidu/Yahoo!/Yandex/...";

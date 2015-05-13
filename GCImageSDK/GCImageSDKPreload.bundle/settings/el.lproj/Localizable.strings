@@ -1,0 +1,49 @@
+//
+//  Localizable.strings(Greek)
+//  Resources
+//
+//  GCImageSDK
+//
+//  Created by Graphics China on 14-7-8.
+//  Copyright (c) 2014年 Graphics China. All rights reserved.
+//
+
+"rc_settings_image_quality" = "Ποιότητα εικόνας";
+"rc_settings_auto_save_to_photo_library" = "Αυτόματη Αποθήκευση σε App Album"?
+"rc_settings_image_quality_low_definition" = "1248px (Γενικά)";
+"rc_settings_image_quality_standard_definition" = "1800px (Standard)";
+"rc_settings_image_quality_high_definition" = "2448px (HD)";
+"rc_settings_support_screen_rotation" = "Υποστήριξη Screen Rotation";
+"rc_settings_about" = "Σχετικά με"?
+"rc_settings_filter_selection_animation" = "Φίλτρο Επιλογής Animation";
+"rc_settings_filter_selection_animation_none" = "Κανένα";
+"rc_settings_filter_selection_animation_ripple" = "κυματισμός";
+"rc_settings_filter_selection_animation_cube" = "Cube";
+"rc_settings_filter_selection_animation_push" = "Push";
+"rc_settings_filter_selection_animation_movein" = "MoveIn";
+"rc_settings_filter_selection_animation_reveal" = "Reveal";
+"rc_settings_filter_selection_animation_fade" = "Fade";
+"rc_settings_filter_selection_animation_pagecurl" = "PageCurl";
+"rc_settings_filter_selection_animation_pageuncurl" = "PageUnCurl";
+"rc_settings_filter_selection_animation_suck" = "Suck";
+"rc_settings_filter_selection_animation_oglflip" = "Flip";
+"rc_settings_filter_selection_animation_camera_iris_hollow_open" = "Κάμερα Ίρις Hollow Άνοιγμα"?
+"rc_settings_filter_selection_animation_camera_iris_hollow_close" = "Κάμερα Ίρις Hollow Κλείσιμο"?
+"rc_settings_filter_selection_animation_curl_down" = "Μπούκλα Down"?
+"rc_settings_filter_selection_animation_curl_up" = "Κέρλ"?
+"rc_settings_filter_selection_animation_flip_from_left" = "Flip από αριστερά"?
+"rc_settings_filter_selection_animation_flip_from_right" = "Flip Από τα δεξιά"?
+"rc_settings_filter_selection_animation_direction" = "Φίλτρο Επιλογής Animation Κατεύθυνση";
+"rc_settings_filter_selection_animation_direction_from_left" = "από αριστερά";
+"rc_settings_filter_selection_animation_direction_from_right" = "Από τα δεξιά";
+"rc_settings_filter_selection_animation_direction_from_top" = "Από κάτω";
+"rc_settings_filter_selection_animation_direction_from_bottom" = "Από την Αρχή";
+"rc_settings_filter_selection_animation_duration" = "Φίλτρο Επιλογής Animation Διάρκεια";
+"rc_settings_filter_toolbar_locate_at_side" = "Όταν Τοπίο Toolbar Εντοπίστε Στο";
+"rc_settings_filter_toolbar_locate_at_left" = "Αριστερά";
+"rc_settings_filter_toolbar_locate_at_right" = "Δεξιά";
+"rc_settings_current_theme_index" = "Θέμα επιλογής";
+"rc_settings_theme_default" = "Προεπιλογή (Deep Space Grey)";
+"rc_settings_theme_light_pink" = "Κεράσι ροζ";
+"rc_settings_theme_light_green" = "καθαρό, φρέσκο πράσινο";
+"rc_locale_suffix" = "EL";

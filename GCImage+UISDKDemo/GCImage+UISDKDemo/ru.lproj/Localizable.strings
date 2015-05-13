@@ -1,0 +1,67 @@
+//
+//  Localizable.strings(Russian)
+//  Resources
+//
+//  GCImageSDK
+//
+//  Created by Jianhui Ren on 14-7-8.
+//  Copyright (c) 2014年 Graphics China. All rights reserved.
+//
+
+"rc_save" = "Сохранить";
+"rc_image_picker_camera" = "Камера";
+"rc_image_picker_photo_library" = "Photo Library";
+"rc_settings_filter_selection" = "Фильтр Выбор";
+"rc_crop_constrain_original" = "Оригинал";
+"rc_crop_constrain_square" = "Квадрат";
+"rc_crop_constrain_2x3" = "2:3";
+"rc_crop_constrain_3x2" = "3:2";
+"rc_crop_constrain_3x5" = "3:5";
+"rc_crop_constrain_5x3" = "5:3";
+"rc_crop_constrain_3x4" = "3:4";
+"rc_crop_constrain_4x3" = "4:3";
+"rc_crop_constrain_4x5" = "4:5";
+"rc_crop_constrain_5x4" = "5:4";
+"rc_crop_constrain_5x7" = "5:7";
+"rc_crop_constrain_7x5" = "7:5";
+"rc_crop_constrain_16x9" = "16:9";
+"rc_crop_constrain_9x16" = "9:16";
+"rc_launch_screen_start_filtering_journey" = "START";
+"rc_save_title" = "Поздравляю!";
+"rc_save_message" = "Фото были сохранены в альбоме: %@";
+"rc_save_button_ok" = "OK";
+"rc_settings_speed_fast" = "Быстрый";
+"rc_settings_speed_slow" = "Slow";
+"rc_launch_screen_slogan" = "Это может быть прекраснее!";
+"rc_launch_screen_slogan_powered_by" = "сографика питается от GCImageSDK™";
+"rc_launch_screen_gcimagesdk_slogan" = "Сделать ваше приложение хорошее первое впечатление!";
+"rc_launch_screen_ads_invest_us" = "Инвест связь";
+"rc_launch_screen_ads_technology" = "Технология";
+"rc_launch_screen_ads_business" = "Бизнес";
+"rc_launch_screen_ads_contact_us_by_email" = "support@graphicschina.com";
+"rc_introduction_graphics_china" = "Graphics China";
+"rc_introduction_graphics_china_copyright" = "Copyright@2015 Graphics China. All Rights Reserved.";
+"rc_introduction_graphics_china_leading" = "Ведущий мировой графическую технологию для мобильных устройств";
+"rc_introduction_gcimagesdk" = "GCImageSDK";
+"rc_introduction_open_platform" = "Open Image SDK платформы";
+"rc_introduction_permanent_free" = "Постоянная бесплатно";
+"rc_introduction_beautiful" = "Делает приложения Beautiful";
+"rc_introduction_powerful" = "Мощный фильтр изображения";
+"rc_introduction_stable" = "Стабильный";
+"rc_introduction_efficient" = "Эффективное";
+"rc_introduction_easy_to_integrate" = "Простота интеграции";
+"rc_introduction_even_two_lines_code" = "Даже 2 Код строки";
+"rc_introduction_create_and_present" = "Создать контроллера, а затем представить";
+"rc_introduction_embedded_filter_framework" = "Встроенные фильтр Библиотека";
+"rc_introduction_embedded_full_functional_ui" = "Встроенные в полнофункциональную UI";
+"rc_introduction_ui_style_can_be_changed" = "Стиль пользовательского интерфейса могут быть соответствующим образом изменить";
+"rc_introduction_color_category" = "Цвет";
+"rc_introduction_blend_category" = "смесь";
+"rc_introduction_frame_category" = "Кадр";
+"rc_introduction_distort_category" = "Distort";
+"rc_introduction_blur_category" = "Размытие";
+"rc_introduction_renews_continually" = "вновь Постоянно...";
+"rc_introduction_skip" = "Перейти";
+"rc_introduction_let_app_create_great_images" = "Let Your приложение для создания великолепных снимков Легко";
+"rc_introduction_recommend_us" = "Пожалуйста, рекомендуем GCImageSDK в App разработчиков вы знаете!";
+"rc_introduction_find_us" = "Поиск 'GCImageSDK' на Google/Baidu/Yahoo!/Yandex/...";

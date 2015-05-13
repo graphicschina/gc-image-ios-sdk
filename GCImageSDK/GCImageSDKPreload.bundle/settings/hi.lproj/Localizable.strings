@@ -1,0 +1,49 @@
+//
+//  Localizable.strings(Hindi)
+//  Resources
+//
+//  GCImageSDK
+//
+//  Created by Graphics China on 14-7-8.
+//  Copyright (c) 2014年 Graphics China. All rights reserved.
+//
+
+"rc_settings_image_quality" = "छवि गुणवत्ता";
+"rc_settings_auto_save_to_photo_library" = "अनुप्रयोग एल्बम के लिए स्वत: सहेजें";
+"rc_settings_image_quality_low_definition" = "1248px (सामान्य)";
+"rc_settings_image_quality_standard_definition" = "1800px (मानक)";
+"rc_settings_image_quality_high_definition" = "2448px (एचडी)";
+"rc_settings_support_screen_rotation" = "समर्थन स्क्रीन रोटेशन";
+"rc_settings_about" = "के बारे में";
+"rc_settings_filter_selection_animation" = "चुनाव में एनिमेशन फ़िल्टर";
+"rc_settings_filter_selection_animation_none" = "कोई नहीं";
+"rc_settings_filter_selection_animation_ripple" = "लहर";
+"rc_settings_filter_selection_animation_cube" = "घन";
+"rc_settings_filter_selection_animation_push" = "पुश";
+"rc_settings_filter_selection_animation_movein" = "MoveIn";
+"rc_settings_filter_selection_animation_reveal" = "प्रकट";
+"rc_settings_filter_selection_animation_fade" = "फीका";
+"rc_settings_filter_selection_animation_pagecurl" = "PageCurl";
+"rc_settings_filter_selection_animation_pageuncurl" = "PageUnCurl";
+"rc_settings_filter_selection_animation_suck" = "चूसो";
+"rc_settings_filter_selection_animation_oglflip" = "फ्लिप";
+"rc_settings_filter_selection_animation_camera_iris_hollow_open" = "कैमरा आइरिस खोखले ओपन";
+"rc_settings_filter_selection_animation_camera_iris_hollow_close" = "कैमरा आइरिस खोखले बंद";
+"rc_settings_filter_selection_animation_curl_down" = "कर्ल डाउन";
+"rc_settings_filter_selection_animation_curl_up" = "कर्ल अप";
+"rc_settings_filter_selection_animation_flip_from_left" = "वाम से फ्लिप";
+"rc_settings_filter_selection_animation_flip_from_right" = "ठीक से फ्लिप";
+"rc_settings_filter_selection_animation_direction" = "चुनाव में एनीमेशन दिशा फ़िल्टर";
+"rc_settings_filter_selection_animation_direction_from_left" = "वाम से";
+"rc_settings_filter_selection_animation_direction_from_right" = "ठीक से";
+"rc_settings_filter_selection_animation_direction_from_top" = "नीचे से";
+"rc_settings_filter_selection_animation_direction_from_bottom" = "ऊपर से";
+"rc_settings_filter_selection_animation_duration" = "चुनाव में संजीवन अवधि फ़िल्टर";
+"rc_settings_filter_toolbar_locate_at_side" = "जब लैंडस्केप टूलबार में ढूँढ";
+"rc_settings_filter_toolbar_locate_at_left" = "वाम";
+"rc_settings_filter_toolbar_locate_at_right" = "सही";
+"rc_settings_current_theme_index" = "थीम चयन";
+"rc_settings_theme_default" = "डिफ़ॉल्ट (डीप स्पेस ग्रे)";
+"rc_settings_theme_light_pink" = "चेरी गुलाबी";
+"rc_settings_theme_light_green" = "स्वच्छ ताजा ग्रीन";
+"rc_locale_suffix" = "HI";

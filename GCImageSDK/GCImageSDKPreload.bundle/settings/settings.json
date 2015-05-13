@@ -1,0 +1,18 @@
+{
+    "image_quality":"1",
+    "auto_save_to_app_album":true,
+    "app_album_name":"Graphics China",
+    "support_screen_rotation":true,
+    "filter_toolbar_locate_at_side":"1",
+    "filter_selection_animation":0,
+    "filter_selection_animation_duration":0.8,
+    "filter_selection_animation_direction":1,
+    "navigation_bar_tint_color":"2634552",
+    "navigation_bar_background_image":"",
+    "filter_selection_grid_background_color":"2634552",
+    "filter_category_toolbar_background_color":"2634552",
+    "filter_canvas_background_color":"2368548",
+    "enable_theme_selection":0,
+    "current_theme_index":0,
+    "enable_about_selection":0
+}

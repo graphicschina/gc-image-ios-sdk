@@ -1,0 +1,49 @@
+//
+//  Localizable.strings(Indonesian)
+//  Resources
+//
+//  GCImageSDK
+//
+//  Created by Graphics China on 14-7-8.
+//  Copyright (c) 2014年 Graphics China. All rights reserved.
+//
+
+"rc_settings_image_quality" = "Kualitas Gambar";
+"rc_settings_auto_save_to_photo_library" = "Auto Save To App Album";
+"rc_settings_image_quality_low_definition" = "1248px (Umum)";
+"rc_settings_image_quality_standard_definition" = "1800px (Standard)";
+"rc_settings_image_quality_high_definition" = "2448px (HD)";
+"rc_settings_support_screen_rotation" = "Dukungan Layar Rotasi";
+"rc_settings_about" = "About";
+"rc_settings_filter_selection_animation" = "Filter Seleksi Animation";
+"rc_settings_filter_selection_animation_none" = "Tidak ada";
+"rc_settings_filter_selection_animation_ripple" = "Ripple";
+"rc_settings_filter_selection_animation_cube" = "Cube";
+"rc_settings_filter_selection_animation_push" = "Dorong";
+"rc_settings_filter_selection_animation_movein" = "MoveIn";
+"rc_settings_filter_selection_animation_reveal" = "Mengungkapkan";
+"rc_settings_filter_selection_animation_fade" = "Fade";
+"rc_settings_filter_selection_animation_pagecurl" = "PageCurl";
+"rc_settings_filter_selection_animation_pageuncurl" = "PageUnCurl";
+"rc_settings_filter_selection_animation_suck" = "Suck";
+"rc_settings_filter_selection_animation_oglflip" = "flip";
+"rc_settings_filter_selection_animation_camera_iris_hollow_open" = "Kamera Iris berongga Terbuka";
+"rc_settings_filter_selection_animation_camera_iris_hollow_close" = "Kamera Iris berongga Tutup";
+"rc_settings_filter_selection_animation_curl_down" = "Curl Down";
+"rc_settings_filter_selection_animation_curl_up" = "Curl Up";
+"rc_settings_filter_selection_animation_flip_from_left" = "Flip Dari Kiri";
+"rc_settings_filter_selection_animation_flip_from_right" = "Flip Dari Kanan";
+"rc_settings_filter_selection_animation_direction" = "Filter Seleksi Animasi Arah";
+"rc_settings_filter_selection_animation_direction_from_left" = "Dari Kiri";
+"rc_settings_filter_selection_animation_direction_from_right" = "Dari kanan";
+"rc_settings_filter_selection_animation_direction_from_top" = "Dari Bawah";
+"rc_settings_filter_selection_animation_direction_from_bottom" = "Dari atas";
+"rc_settings_filter_selection_animation_duration" = "Filter Seleksi Animasi Durasi";
+"rc_settings_filter_toolbar_locate_at_side" = "Ketika Landscape Toolbar Cari Pada";
+"rc_settings_filter_toolbar_locate_at_left" = "Kiri";
+"rc_settings_filter_toolbar_locate_at_right" = "Right";
+"rc_settings_current_theme_index" = "Tema Selection";
+"rc_settings_theme_default" = "Default (Deep Space Grey)";
+"rc_settings_theme_light_pink" = "Cherry pink";
+"rc_settings_theme_light_green" = "Clean Fresh Hijau";
+"rc_locale_suffix" = "ID";

@@ -1,0 +1,8 @@
+{
+    "filter_category_id":"00000003",
+    "filter_category_name":"Color",
+    "filter_category_description":"Color Family",
+    "filter_category_display_name":"Color",
+    "filter_category_icon":"gc_filter_category_color.png",
+    "filter_category_enabled":"1"
+}

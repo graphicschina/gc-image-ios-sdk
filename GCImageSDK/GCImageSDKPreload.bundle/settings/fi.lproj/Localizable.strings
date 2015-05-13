@@ -1,0 +1,49 @@
+//
+//  Localizable.strings(Finnish)
+//  Resources
+//
+//  GCImageSDK
+//
+//  Created by Graphics China on 14-7-8.
+//  Copyright (c) 2014年 Graphics China. All rights reserved.
+//
+
+"rc_settings_image_quality" = "Kuvan laatu";
+"rc_settings_auto_save_to_photo_library" = "Auto Save App Album";
+"rc_settings_image_quality_low_definition" = "1248px (General)";
+"rc_settings_image_quality_standard_definition" = "1800px (Standard)";
+"rc_settings_image_quality_high_definition" = "2448px (HD)";
+"rc_settings_support_screen_rotation" = "Tuki Screen Rotation";
+"rc_settings_about" = "Tietoja";
+"rc_settings_filter_selection_animation" = "suodatinvalinnan Animaatio";
+"rc_settings_filter_selection_animation_none" = "Ei mitään";
+"rc_settings_filter_selection_animation_ripple" = "Ripple";
+"rc_settings_filter_selection_animation_cube" = "kuutio";
+"rc_settings_filter_selection_animation_push" = "Push";
+"rc_settings_filter_selection_animation_movein" = "MoveIn";
+"rc_settings_filter_selection_animation_reveal" = "Reveal";
+"rc_settings_filter_selection_animation_fade" = "Fade";
+"rc_settings_filter_selection_animation_pagecurl" = "PageCurl";
+"rc_settings_filter_selection_animation_pageuncurl" = "PageUnCurl";
+"rc_settings_filter_selection_animation_suck" = "Suck";
+"rc_settings_filter_selection_animation_oglflip" = "Flip";
+"rc_settings_filter_selection_animation_camera_iris_hollow_open" = "Kameran Iris Hollow Open";
+"rc_settings_filter_selection_animation_camera_iris_hollow_close" = "Kameran Iris Hollow Close";
+"rc_settings_filter_selection_animation_curl_down" = "Curl Down";
+"rc_settings_filter_selection_animation_curl_up" = "käpertyä";
+"rc_settings_filter_selection_animation_flip_from_left" = "Flip Vasemmalta";
+"rc_settings_filter_selection_animation_flip_from_right" = "Flip oikealta";
+"rc_settings_filter_selection_animation_direction" = "suodatinvalinnan Animaatio suunta";
+"rc_settings_filter_selection_animation_direction_from_left" = "Vasemmalta";
+"rc_settings_filter_selection_animation_direction_from_right" = "oikealta";
+"rc_settings_filter_selection_animation_direction_from_top" = "Alhaalta";
+"rc_settings_filter_selection_animation_direction_from_bottom" = "Ylhäältä";
+"rc_settings_filter_selection_animation_duration" = "suodatinvalinnan Animaatio Kesto";
+"rc_settings_filter_toolbar_locate_at_side" = "Kun Maisema Toolbar paikantaa";
+"rc_settings_filter_toolbar_locate_at_left" = "left";
+"rc_settings_filter_toolbar_locate_at_right" = "Oikea";
+"rc_settings_current_theme_index" = "Teema valinta";
+"rc_settings_theme_default" = "Default (Deep Space Grey)";
+"rc_settings_theme_light_pink" = "Cherry Pink";
+"rc_settings_theme_light_green" = "Clean Fresh Green";
+"rc_locale_suffix" = "FI";

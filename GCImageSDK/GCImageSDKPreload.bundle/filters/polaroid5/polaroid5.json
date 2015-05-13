@@ -1,0 +1,19 @@
+{
+    "interface_id":"10000000",
+    "filter_category_id":"00000008",
+    "filter_id":"80000005",
+    "filter_name":"Polaroid5",
+    "filter_description":"Polaroid5",
+    "filter_display_name":"Polaroid5",
+    "filter_class_name":"GCCImageFilterClass7",
+    "filter_icon":"gc_image_filter_polaroid.png",
+    "filter_supported_ios_version":"5.0",
+    "filter_supported_iphone_model":"4",
+    "filter_supported_selection_style":"swipe",
+    "filter_enabled":"1",
+    "filter_parameters": {
+        "filter_frame_align_mode":"0",
+        "filter_frame_name":"polaroid5",
+        "filter_frame_image":"gc_image_filte_polaroid_frame.png"
+    }
+}

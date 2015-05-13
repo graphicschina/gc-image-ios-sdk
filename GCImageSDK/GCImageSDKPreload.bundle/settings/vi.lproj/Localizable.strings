@@ -1,0 +1,49 @@
+//
+//  Localizable.strings(Vietnamese)
+//  Resources
+//
+//  GCImageSDK
+//
+//  Created by Graphics China on 14-7-8.
+//  Copyright (c) 2014年 Graphics China. All rights reserved.
+//
+
+"rc_settings_image_quality" = "Chất lượng hình ảnh";
+"rc_settings_auto_save_to_photo_library" = "Auto Save To App Album";
+"rc_settings_image_quality_low_definition" = "1248px (chung)";
+"rc_settings_image_quality_standard_definition" = "1800px (Standard)";
+"rc_settings_image_quality_high_definition" = "2448px (HD)";
+"rc_settings_support_screen_rotation" = "Hỗ trợ Screen Rotation";
+"rc_settings_about" = "Giới thiệu";
+"rc_settings_filter_selection_animation" = "Filter Selection Animation";
+"rc_settings_filter_selection_animation_none" = "Không";
+"rc_settings_filter_selection_animation_ripple" = "Ripple";
+"rc_settings_filter_selection_animation_cube" = "Cube";
+"rc_settings_filter_selection_animation_push" = "Push";
+"rc_settings_filter_selection_animation_movein" = "MoveIn";
+"rc_settings_filter_selection_animation_reveal" = "Reveal";
+"rc_settings_filter_selection_animation_fade" = "Fade";
+"rc_settings_filter_selection_animation_pagecurl" = "PageCurl";
+"rc_settings_filter_selection_animation_pageuncurl" = "PageUnCurl";
+"rc_settings_filter_selection_animation_suck" = "bú";
+"rc_settings_filter_selection_animation_oglflip" = "Flip";
+"rc_settings_filter_selection_animation_camera_iris_hollow_open" = "Máy ảnh Iris Hollow Open";
+"rc_settings_filter_selection_animation_camera_iris_hollow_close" = "Máy ảnh Iris Hollow Close";
+"rc_settings_filter_selection_animation_curl_down" = "Curl Down";
+"rc_settings_filter_selection_animation_curl_up" = "Curl Up";
+"rc_settings_filter_selection_animation_flip_from_left" = "Flip Từ trái";
+"rc_settings_filter_selection_animation_flip_from_right" = "Flip Từ Right";
+"rc_settings_filter_selection_animation_direction" = "Filter Direction Selection Animation";
+"rc_settings_filter_selection_animation_direction_from_left" = "Từ trái";
+"rc_settings_filter_selection_animation_direction_from_right" = "Từ Right";
+"rc_settings_filter_selection_animation_direction_from_top" = "Từ dưới";
+"rc_settings_filter_selection_animation_direction_from_bottom" = "Từ Top";
+"rc_settings_filter_selection_animation_duration" = "Filter Selection Animation Thời gian";
+"rc_settings_filter_toolbar_locate_at_side" = "Khi Cảnh Thanh công cụ định vị trí tại";
+"rc_settings_filter_toolbar_locate_at_left" = "Left";
+"rc_settings_filter_toolbar_locate_at_right" = "Right";
+"rc_settings_current_theme_index" = "Theme Selection";
+"rc_settings_theme_default" = "Default (Deep Space Grey)";
+"rc_settings_theme_light_pink" = "Cherry Pink";
+"rc_settings_theme_light_green" = "Clean Fresh Green";
+"rc_locale_suffix" = "VI";

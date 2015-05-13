@@ -1,0 +1,67 @@
+//
+//  Localizable.strings(Spanish)
+//  Resources
+//
+//  GCImageSDK
+//
+//  Created by Jianhui Ren on 14-7-8.
+//  Copyright (c) 2014年 Graphics China. All rights reserved.
+//
+
+"rc_save" = "Guardar";
+"rc_image_picker_camera" = "Cámara";
+"rc_image_picker_photo_library" = "Fototeca";
+"rc_settings_filter_selection" = "Selección de filtro";
+"rc_crop_constrain_original" = "Original";
+"rc_crop_constrain_square" = "Plaza";
+"rc_crop_constrain_2x3" = "2:3";
+"rc_crop_constrain_3x2" = "3:2";
+"rc_crop_constrain_3x5" = "3:5";
+"rc_crop_constrain_5x3" = "5:3";
+"rc_crop_constrain_3x4" = "3:4";
+"rc_crop_constrain_4x3" = "4:3";
+"rc_crop_constrain_4x5" = "4:5";
+"rc_crop_constrain_5x4" = "5:4";
+"rc_crop_constrain_5x7" = "5:7";
+"rc_crop_constrain_7x5" = "7:5";
+"rc_crop_constrain_16x9" = "16:9";
+"rc_crop_constrain_9x16" = "9:16";
+"rc_save_title" = "¡Enhorabuena!";
+"rc_save_message" = "La foto se ha guardado en el disco: %@";
+"rc_save_button_ok" = "OK";
+"rc_settings_speed_fast" = "rápido";
+"rc_settings_speed_slow" = "Slow";
+"rc_launch_screen_start_filtering_journey" = "INICIO";
+"rc_launch_screen_slogan" = "Puede ser más hermoso!";
+"rc_launch_screen_slogan_powered_by" = "CoGráficos es impulsado por GCImageSDK™";
+"rc_launch_screen_gcimagesdk_slogan" = "Haga su aplicación una gran primera impresión!";
+"rc_launch_screen_ads_invest_us" = "Invest nosotros";
+"rc_launch_screen_ads_technology" = "Tecnología";
+"rc_launch_screen_ads_business" = "Negocios";
+"rc_launch_screen_ads_contact_us_by_email" = "support@graphicschina.com";
+"rc_introduction_graphics_china" = "Graphics China";
+"rc_introduction_graphics_china_copyright" = "Copyright@2015 Graphics China. All Rights Reserved.";
+"rc_introduction_graphics_china_leading" = "Líder mundial de tecnología de gráficos móviles";
+"rc_introduction_gcimagesdk" = "GCImageSDK";
+"rc_introduction_open_platform" = "Abrir imagen SDK de la plataforma";
+"rc_introduction_permanent_free" = "Free Permanente";
+"rc_introduction_beautiful" = "Hace Aplicaciones Beautiful";
+"rc_introduction_powerful" = "Potente filtro de imagen";
+"rc_introduction_stable" = "Estable";
+"rc_introduction_efficient" = "eficiente";
+"rc_introduction_easy_to_integrate" = "facilita la integración";
+"rc_introduction_even_two_lines_code" = "Incluso 2 Código Line";
+"rc_introduction_create_and_present" = "Crear el controlador, y luego presente";
+"rc_introduction_embedded_filter_framework" = "Filtro de biblioteca Embedded";
+"rc_introduction_embedded_full_functional_ui" = "Embedded con IU funcional completa";
+"rc_introduction_ui_style_can_be_changed" = "Estilo de interfaz de usuario puede ser cambiado por consiguiente";
+"rc_introduction_color_category" = "Color";
+"rc_introduction_blend_category" = "Blend";
+"rc_introduction_frame_category" = "Marco";
+"rc_introduction_distort_category" = "Distorsionar";
+"rc_introduction_blur_category" = "Blur";
+"rc_introduction_renews_continually" = "Renueva continuamente...";
+"rc_introduction_skip" = "Skip";
+"rc_introduction_let_app_create_great_images" = "Deja que tu App para crear grandes imágenes fácilmente";
+"rc_introduction_recommend_us" = "Por favor, recomendar GCImageSDK para desarrolladores de aplicaciones que sabes!";
+"rc_introduction_find_us" = "Buscar 'GCImageSDK' en Google/Baidu/Yahoo!/Yandex/...";

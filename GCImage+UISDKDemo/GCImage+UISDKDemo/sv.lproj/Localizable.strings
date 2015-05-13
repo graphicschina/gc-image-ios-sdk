@@ -1,0 +1,67 @@
+//
+//  Localizable.strings(Swedish)
+//  Resources
+//
+//  GCImageSDK
+//
+//  Created by Jianhui Ren on 14-7-8.
+//  Copyright (c) 2014年 Graphics China. All rights reserved.
+//
+
+"rc_save" = "Spara";
+"rc_image_picker_camera" = "Camera";
+"rc_image_picker_photo_library" = "Photo Library";
+"rc_settings_filter_selection" = "Filter Selection";
+"rc_crop_constrain_original" = "Original";
+"rc_crop_constrain_square" = "Square";
+"rc_crop_constrain_2x3" = "2:3";
+"rc_crop_constrain_3x2" = "3:2";
+"rc_crop_constrain_3x5" = "3:5";
+"rc_crop_constrain_5x3" = "5:3";
+"rc_crop_constrain_3x4" = "3:4";
+"rc_crop_constrain_4x3" = "4:3";
+"rc_crop_constrain_4x5" = "4:5";
+"rc_crop_constrain_5x4" = "5:4";
+"rc_crop_constrain_5x7" = "5:7";
+"rc_crop_constrain_7x5" = "7:5";
+"rc_crop_constrain_16x9" = "16:9";
+"rc_crop_constrain_9x16" = "9:16";
+"rc_launch_screen_start_filtering_journey" = "START";
+"rc_save_title" = "Congrats!";
+"rc_save_message" = "Foto har sparats i albumet: %@";
+"rc_save_button_ok" = "OK";
+"rc_settings_speed_fast" = "Snabb";
+"rc_settings_speed_slow" = "Slow";
+"rc_launch_screen_slogan" = "DET KAN vara vackrare!";
+"rc_launch_screen_slogan_powered_by" = "CoGrafik drivs av GCImageSDK™";
+"rc_launch_screen_gcimagesdk_slogan" = "Gör din app ett bra första intryck!";
+"rc_launch_screen_ads_invest_us" = "Invest oss";
+"rc_launch_screen_ads_technology" = "Teknik";
+"rc_launch_screen_ads_business" = "Business";
+"rc_launch_screen_ads_contact_us_by_email" = "support@graphicschina.com";
+"rc_introduction_graphics_china" = "Graphics China";
+"rc_introduction_graphics_china_copyright" = "Copyright@2015 Graphics China. All Rights Reserved.";
+"rc_introduction_graphics_china_leading" = "Ledande globala mobila grafikteknologi";
+"rc_introduction_gcimagesdk" = "GCImageSDK";
+"rc_introduction_open_platform" = "Öppna bild SDK Platform";
+"rc_introduction_permanent_free" = "permanent fri";
+"rc_introduction_beautiful" = "Gör Apps Beautiful";
+"rc_introduction_powerful" = "Kraftfull Image Filter";
+"rc_introduction_stable" = "Stable";
+"rc_introduction_efficient" = "Efficient";
+"rc_introduction_easy_to_integrate" = "Lätt att integrera";
+"rc_introduction_even_two_lines_code" = "Även 2 Line Code";
+"rc_introduction_create_and_present" = "Skapa Controller, och sedan presentera";
+"rc_introduction_embedded_filter_framework" = "Embedded Filter Library";
+"rc_introduction_embedded_full_functional_ui" = "Embedded med Full Functional UI";
+"rc_introduction_ui_style_can_be_changed" = "UI stil kan ändras Således";
+"rc_introduction_color_category" = "Färg";
+"rc_introduction_blend_category" = "Blend";
+"rc_introduction_frame_category" = "Frame";
+"rc_introduction_distort_category" = "Förvräng";
+"rc_introduction_blur_category" = "Blur";
+"rc_introduction_renews_continually" = "förnyar kontinuerligt...";
+"rc_introduction_skip" = "Skip";
+"rc_introduction_let_app_create_great_images" = "Låt din app för att skapa fantastiska bilder enkelt";
+"rc_introduction_recommend_us" = "Vänligen rekommendera GCImageSDK till App Developers du vet!";
+"rc_introduction_find_us" = "Sök 'GCImageSDK' på Google/Baidu/Yahoo!/Yandex/...";

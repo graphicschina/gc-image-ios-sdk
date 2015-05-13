@@ -1,0 +1,18 @@
+{
+    "interface_id":"20000000",
+    "filter_category_id":"00000011",
+    "filter_id":"11000004",
+    "filter_name":"TextureNormalBlend",
+    "filter_description":"TextureNormalBlend",
+    "filter_display_name":"Normal",
+    "filter_class_name":"GCGImageFilterClass4",
+    "filter_icon":"gc_image_filter_normal_blend.png",
+    "filter_supported_ios_version":"5.0",
+    "filter_supported_iphone_model":"4",
+    "filter_supported_selection_style":"swipe",
+    "filter_enabled":"1",
+    "filter_parameters": {
+        "filter_texture_blend_name":"texturenormalblend",
+        "filter_texture_blend_image":"gc_image_filter_texture_normal_blend.png"
+    }
+}

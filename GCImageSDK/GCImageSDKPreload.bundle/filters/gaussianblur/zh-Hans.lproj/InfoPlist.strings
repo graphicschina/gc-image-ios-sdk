@@ -1,0 +1,11 @@
+/*
+ *  InfoPlist.strings(Simplified Chinese)
+ *  Resources
+ *
+ *  GCImageSDK
+ *
+ *  Created by Graphics China on 2014/04/20.
+ *  Copyright (C) 2014 Graphics China. All rights reserved.
+ */
+
+CFBundleDisplayName = "Graphics China";

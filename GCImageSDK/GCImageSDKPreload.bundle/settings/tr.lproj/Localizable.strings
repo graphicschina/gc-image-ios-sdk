@@ -1,0 +1,49 @@
+//
+//  Localizable.strings(Turkish)
+//  Resources
+//
+//  GCImageSDK
+//
+//  Created by Graphics China on 14-7-8.
+//  Copyright (c) 2014年 Graphics China. All rights reserved.
+//
+
+"rc_settings_image_quality" = "Görüntü Kalitesi";
+"rc_settings_auto_save_to_photo_library" = "App Albüm için Otomatik Kaydet";
+"rc_settings_image_quality_low_definition" = "1248px (Genel)";
+"rc_settings_image_quality_standard_definition" = "1800px (Standart)";
+"rc_settings_image_quality_high_definition" = "2448px (HD)";
+"rc_settings_support_screen_rotation" = "Destek Ekran Dönme";
+"rc_settings_about" = "Hakkında";
+"rc_settings_filter_selection_animation" = "Seçim Animasyon Filtresi";
+"rc_settings_filter_selection_animation_none" = "Yok";
+"rc_settings_filter_selection_animation_ripple" = "Dalgalanma";
+"rc_settings_filter_selection_animation_cube" = "Küp";
+"rc_settings_filter_selection_animation_push" = "İtme";
+"rc_settings_filter_selection_animation_movein" = "MoveIn";
+"rc_settings_filter_selection_animation_reveal" = "Açığa";
+"rc_settings_filter_selection_animation_fade" = "Fade";
+"rc_settings_filter_selection_animation_pagecurl" = "PageCurl";
+"rc_settings_filter_selection_animation_pageuncurl" = "PageUnCurl";
+"rc_settings_filter_selection_animation_suck" = "Suck";
+"rc_settings_filter_selection_animation_oglflip" = "çevir";
+"rc_settings_filter_selection_animation_camera_iris_hollow_open" = "Kamera İris Hollow Aç";
+"rc_settings_filter_selection_animation_camera_iris_hollow_close" = "Kamera İris Hollow Close";
+"rc_settings_filter_selection_animation_curl_down" = "Curl Aşağı";
+"rc_settings_filter_selection_animation_curl_up" = "Curl Up";
+"rc_settings_filter_selection_animation_flip_from_left" = "Soldan çevirin";
+"rc_settings_filter_selection_animation_flip_from_right" = "Sağdan çevirin";
+"rc_settings_filter_selection_animation_direction" = "Seçim Animasyon Yönü Filtre";
+"rc_settings_filter_selection_animation_direction_from_left" = "Soldan";
+"rc_settings_filter_selection_animation_direction_from_right" = "From the Right";
+"rc_settings_filter_selection_animation_direction_from_top" = "Alttan";
+"rc_settings_filter_selection_animation_direction_from_bottom" = "From The Top";
+"rc_settings_filter_selection_animation_duration" = "Seçim Animasyon Süre Filtre";
+"rc_settings_filter_toolbar_locate_at_side" = "Ne zaman Peyzaj Araç Çubuğu At bulun";
+"rc_settings_filter_toolbar_locate_at_left" = "Sol";
+"rc_settings_filter_toolbar_locate_at_right" = "Sağ";
+"rc_settings_current_theme_index" = "Tema Seçimi";
+"rc_settings_theme_default" = "Varsayılan (Deep Space Gri)";
+"rc_settings_theme_light_pink" = "Kiraz Pembe";
+"rc_settings_theme_light_green" = "Clean Fresh Yeşil";
+"rc_locale_suffix" = "TR";

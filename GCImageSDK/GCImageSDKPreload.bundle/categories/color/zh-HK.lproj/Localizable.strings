@@ -1,0 +1,13 @@
+//
+//  Localizable.strings(Traditional Chinese)
+//  Resources
+//
+//  GCImageSDK
+//
+//  Created by Graphics China on 14-7-8.
+//  Copyright (c) 2014年 Graphics China. All rights reserved.
+//
+
+"rc_filter_category_name" = "顏色";
+"rc_filter_category_description" = "顏色系列";
+"rc_locale_suffix" = "HK";

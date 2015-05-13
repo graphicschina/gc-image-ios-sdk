@@ -1,0 +1,18 @@
+{
+    "interface_id":"20000000",
+    "filter_category_id":"00000011",
+    "filter_id":"11000002",
+    "filter_name":"TextureLinearBurnBlend",
+    "filter_description":"TextureLinearBurnBlend",
+    "filter_display_name":"Linear Burn",
+    "filter_class_name":"GCGImageFilterClass2",
+    "filter_icon":"gc_image_filter_liner_burn_blend.png",
+    "filter_supported_ios_version":"5.0",
+    "filter_supported_iphone_model":"4",
+    "filter_supported_selection_style":"swipe",
+    "filter_enabled":"1",
+    "filter_parameters": {
+        "filter_texture_blend_name":"texturelinearburnblend",
+        "filter_texture_blend_image":"gc_image_filter_texture_linear_burn_blend.jpg"
+    }
+}

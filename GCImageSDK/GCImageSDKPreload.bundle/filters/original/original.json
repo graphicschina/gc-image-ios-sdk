@@ -1,0 +1,14 @@
+{
+    "interface_id":"10000000",
+    "filter_id":"10000000",
+    "filter_category_id":"00000004",
+    "filter_name":"Original",
+    "filter_description":"Original",
+    "filter_display_name":"Original",
+    "filter_class_name":"GCCImageFilterClass0",
+    "filter_icon":"gc_image_filter_original.png",
+    "filter_supported_ios_version":"5.0",
+    "filter_supported_iphone_model":"4",
+    "filter_supported_selection_style":"swipe",
+    "filter_enabled":"1"
+}

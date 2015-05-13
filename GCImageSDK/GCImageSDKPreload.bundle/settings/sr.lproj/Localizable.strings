@@ -1,0 +1,49 @@
+//
+//  Localizable.strings(Serbian)
+//  Resources
+//
+//  GCImageSDK
+//
+//  Created by Graphics China on 14-7-8.
+//  Copyright (c) 2014年 Graphics China. All rights reserved.
+//
+
+"rc_settings_image_quality" = "Квалитет слике";
+"rc_settings_auto_save_to_photo_library" = "Ауто Саве Да Апп Албум";
+"rc_settings_image_quality_low_definition" = "1248пк (генерал)";
+"rc_settings_image_quality_standard_definition" = "1800пк (стандард)";
+"rc_settings_image_quality_high_definition" = "2448пк (ХД)";
+"rc_settings_support_screen_rotation" = "Подршка поворот екрана";
+"rc_settings_about" = "О";
+"rc_settings_filter_selection_animation" = "Филтер Селецтион Аниматион";
+"rc_settings_filter_selection_animation_none" = "Ништа";
+"rc_settings_filter_selection_animation_ripple" = "Риппле";
+"rc_settings_filter_selection_animation_cube" = "Коцка";
+"rc_settings_filter_selection_animation_push" = "Пусх";
+"rc_settings_filter_selection_animation_movein" = "МовеИн";
+"rc_settings_filter_selection_animation_reveal" = "Ревеал";
+"rc_settings_filter_selection_animation_fade" = "Фаде";
+"rc_settings_filter_selection_animation_pagecurl" = "ПагеЦурл";
+"rc_settings_filter_selection_animation_pageuncurl" = "ПагеУнЦурл";
+"rc_settings_filter_selection_animation_suck" = "Суцк";
+"rc_settings_filter_selection_animation_oglflip" = "Флип";
+"rc_settings_filter_selection_animation_camera_iris_hollow_open" = "Камера Ајрис Холлов Отвори";
+"rc_settings_filter_selection_animation_camera_iris_hollow_close" = "Камера Ајрис Холлов Затвори";
+"rc_settings_filter_selection_animation_curl_down" = "Цурл Доле";
+"rc_settings_filter_selection_animation_curl_up" = "Цурл Уп";
+"rc_settings_filter_selection_animation_flip_from_left" = "Флип Од левице";
+"rc_settings_filter_selection_animation_flip_from_right" = "Флип Од Ригхт";
+"rc_settings_filter_selection_animation_direction" = "Филтер Избор Аниматион Дирецтион";
+"rc_settings_filter_selection_animation_direction_from_left" = "Од левице";
+"rc_settings_filter_selection_animation_direction_from_right" = "Из Ригхт";
+"rc_settings_filter_selection_animation_direction_from_top" = "Из Боттом";
+"rc_settings_filter_selection_animation_direction_from_bottom" = "Фром Топ";
+"rc_settings_filter_selection_animation_duration" = "Филтер Избор Аниматион Дуратион";
+"rc_settings_filter_toolbar_locate_at_side" = "Када Пејзаж Тоолбар пронашли у";
+"rc_settings_filter_toolbar_locate_at_left" = "Лефт";
+"rc_settings_filter_toolbar_locate_at_right" = "Десно";
+"rc_settings_current_theme_index" = "Тема Избор";
+"rc_settings_theme_default" = "Уобичајено (Дееп Спаце Блацк)";
+"rc_settings_theme_light_pink" = "Цхерри Пинк";
+"rc_settings_theme_light_green" = "Чиста Свеже Зелена";
+"rc_locale_suffix" = "SR";

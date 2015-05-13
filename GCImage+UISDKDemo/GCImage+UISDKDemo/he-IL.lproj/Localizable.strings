@@ -1,0 +1,67 @@
+//
+//  Localizable.strings(Hebrew)
+//  Resources
+//
+//  GCImageSDK
+//
+//  Created by Jianhui Ren on 14-7-8.
+//  Copyright (c) 2014年 Graphics China. All rights reserved.
+//
+
+"rc_launch_screen_start_filtering_journey" = "התחל";
+"rc_launch_screen_slogan" = "זה יכול להיות יותר יפה!";
+"rc_launch_screen_gcimagesdk_slogan" = "הפוך את האפליקציה שלך רושם ראשוני נהדר!";
+"rc_launch_screen_slogan_powered_by" = "שיתוףגרפיקה הגרפיקה היא מופעל על GCImageSDK™";
+"rc_launch_screen_ads_contact_us_by_email" = "support@graphicschina.com";
+"rc_launch_screen_ads_invest_us" = "Invest קשר";
+"rc_launch_screen_ads_technology" = "טכנולוגיה";
+"rc_launch_screen_ads_business" = "עסקים";
+"rc_introduction_skip" = "דלג";
+"rc_introduction_graphics_china" = "Graphics China";
+"rc_introduction_gcimagesdk" = "GCImageSDK";
+"rc_introduction_graphics_china_copyright" = "Copyright@2015 Graphics China. All Rights Reserved.";
+"rc_introduction_graphics_china_leading" = "טכנולוגיה מובילה גרפיקה ניידת העולמית";
+"rc_introduction_open_platform" = "פתחה תמונה SDK פלטפורמה";
+"rc_introduction_permanent_free" = "קבוע חינם";
+"rc_introduction_let_app_create_great_images" = "בוא App שלך כדי ליצור תמונות נהדרת בקלות";
+"rc_introduction_beautiful" = "עושה Apps היפה";
+"rc_introduction_powerful" = "מסנן רב עוצמה תמונה";
+"rc_introduction_stable" = "יציב";
+"rc_introduction_efficient" = "יעיל";
+"rc_introduction_easy_to_integrate" = "קל לשלב";
+"rc_introduction_even_two_lines_code" = "קוד אפילו 2 קו";
+"rc_introduction_create_and_present" = "צור בקר, ולאחר מכן הווה";
+"rc_introduction_embedded_filter_framework" = "ספרייה משובצת מסנן";
+"rc_introduction_embedded_full_functional_ui" = "משובץ עם ממשק משתמש פונקציונלי מלא";
+"rc_introduction_ui_style_can_be_changed" = "סגנון ממשק המשתמש ניתן לשנות בהתאם לכך";
+"rc_introduction_color_category" = "צבע";
+"rc_introduction_blend_category" = "Blend";
+"rc_introduction_frame_category" = "Frame";
+"rc_introduction_distort_category" = "לעקם";
+"rc_introduction_blur_category" = "לטשטש";
+"rc_introduction_renews_continually" = "לרענון מתמיד של...";
+"rc_introduction_recommend_us" = "אנא ממליץ GCImageSDK למפתחי יישומים מכיר אותך!";
+"rc_introduction_find_us" = "חיפוש 'GCImageSDK' ב- Google/Baidu/Yahoo!/Yandex/...";
+"rc_settings_filter_selection" = "בחירת מסנן";
+"rc_crop_constrain_original" = "מקורי";
+"rc_crop_constrain_square" = "כיכר";
+"rc_crop_constrain_2x3" = "2:3";
+"rc_crop_constrain_3x2" = "3:2";
+"rc_crop_constrain_3x5" = "3:5";
+"rc_crop_constrain_5x3" = "5:3";
+"rc_crop_constrain_3x4" = "3:4";
+"rc_crop_constrain_4x3" = "4:3";
+"rc_crop_constrain_4x5" = "4:5";
+"rc_crop_constrain_5x4" = "5:4";
+"rc_crop_constrain_5x7" = "5:7";
+"rc_crop_constrain_7x5" = "7:5";
+"rc_crop_constrain_16x9" = "16:9";
+"rc_crop_constrain_9x16" = "9:16";
+"rc_save_title" = "מזל טוב!";
+"rc_save_message" = "תמונה נשמרה לאלבום: %@";
+"rc_save_button_ok" = "אישור";
+"rc_settings_speed_fast" = "מהיר";
+"rc_settings_speed_slow" = "איטי";
+"rc_image_picker_camera" = "מצלמה";
+"rc_image_picker_photo_library" = "ספריית תמונות";
+"rc_save" = "שמור";

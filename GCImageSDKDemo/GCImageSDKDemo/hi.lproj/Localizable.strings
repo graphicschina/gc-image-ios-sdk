@@ -1,0 +1,67 @@
+//
+//  Localizable.strings(Hindi)
+//  Resources
+//
+//  GCImageSDK
+//
+//  Created by Jianhui Ren on 14-7-8.
+//  Copyright (c) 2014年 Graphics China. All rights reserved.
+//
+
+"rc_save" = "सहेजें";
+"rc_image_picker_camera" = "कैमरा";
+"rc_image_picker_photo_library" = "फोटो लाइब्रेरी";
+"rc_settings_filter_selection" = "फिल्टर चयन";
+"rc_crop_constrain_original" = "मूल";
+"rc_crop_constrain_square" = "वर्ग";
+"rc_crop_constrain_2x3" = "2:3";
+"rc_crop_constrain_3x2" = "3:2";
+"rc_crop_constrain_3x5" = "3:5";
+"rc_crop_constrain_5x3" = "5:3";
+"rc_crop_constrain_3x4" = "3:4";
+"rc_crop_constrain_4x3" = "4:3";
+"rc_crop_constrain_4x5" = "4:5";
+"rc_crop_constrain_5x4" = "5:4";
+"rc_crop_constrain_5x7" = "5:7";
+"rc_crop_constrain_7x5" = "7:5";
+"rc_crop_constrain_16x9" = "16:9";
+"rc_crop_constrain_9x16" = "9:16";
+"rc_launch_screen_start_filtering_journey" = "शुरू";
+"rc_save_title" = "बधाई हो!";
+"rc_save_message" = "फोटो एलबम में सहेज लिया गया है: %@";
+"rc_save_button_ok" = "ठीक है";
+"rc_settings_speed_fast" = "फास्ट";
+"rc_settings_speed_slow" = "धीमी";
+"rc_launch_screen_slogan" = "इसे और अधिक सुंदर हो सकता है!";
+"rc_launch_screen_slogan_powered_by" = "सह-ग्राफिक्स GCImageSDK™ द्वारा संचालित है";
+"rc_launch_screen_gcimagesdk_slogan" = "अपने app एक महान पहली धारणा बनाने!";
+"rc_launch_screen_ads_invest_us" = "इन्वेस्ट करें";
+"rc_launch_screen_ads_technology" = "प्रौद्योगिकी";
+"rc_launch_screen_ads_business" = "व्यापार";
+"rc_launch_screen_ads_contact_us_by_email" = "support@graphicschina.com";
+"rc_introduction_graphics_china" = "Graphics China";
+"rc_introduction_graphics_china_copyright" = "Copyright@2015 Graphics China. All Rights Reserved.";
+"rc_introduction_graphics_china_leading" = "वैश्विक मोबाइल ग्राफिक्स प्रौद्योगिकी के अग्रणी";
+"rc_introduction_gcimagesdk" = "GCImageSDK";
+"rc_introduction_open_platform" = "ओपन छवि एसडीके प्लेटफार्म";
+"rc_introduction_permanent_free" = "स्थायी नि: शुल्क";
+"rc_introduction_beautiful" = "एप्प्स सुंदर बनाता है";
+"rc_introduction_powerful" = "शक्तिशाली छवि फ़िल्टर";
+"rc_introduction_stable" = "स्थिर";
+"rc_introduction_efficient" = "कुशल";
+"rc_introduction_easy_to_integrate" = "आराम से एकीकृत करने के लिए";
+"rc_introduction_even_two_lines_code" = "यहां तक ​​कि दो लाइन कोड";
+"rc_introduction_create_and_present" = "नियंत्रक बनाएँ, और तब वर्तमान";
+"rc_introduction_embedded_filter_framework" = "एंबेडेड फ़िल्टर लाइब्रेरी";
+"rc_introduction_embedded_full_functional_ui" = "पूर्ण कार्यात्मक यूआई के साथ एंबेडेड";
+"rc_introduction_ui_style_can_be_changed" = "यूआई शैली तदनुसार बदला जा सकता है";
+"rc_introduction_color_category" = "रंग";
+"rc_introduction_blend_category" = "मिश्रण";
+"rc_introduction_frame_category" = "फ्रेम";
+"rc_introduction_distort_category" = "विकृत";
+"rc_introduction_blur_category" = "धब्बा";
+"rc_introduction_renews_continually" = "लगातार नवीनिकृत...";
+"rc_introduction_skip"= "छोड़ें";
+"rc_introduction_let_app_create_great_images" = "अपने अनुप्रयोग आसानी से महान चित्र बनाने के लिए करते हैं";
+"rc_introduction_recommend_us" = "क्या आप जानते एप्लिकेशन डेवलपर के लिए GCImageSDK सलाह देते हैं!";
+"rc_introduction_find_us" = "गूगल / Baidu / याहू पर खोज 'GCImageSDK' / Yandex / ...!";

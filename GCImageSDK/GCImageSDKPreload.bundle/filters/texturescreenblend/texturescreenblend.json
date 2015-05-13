@@ -1,0 +1,18 @@
+{
+    "interface_id":"20000000",
+    "filter_category_id":"00000011",
+    "filter_id":"11000006",
+    "filter_name":"TextureScreenBlend",
+    "filter_description":"TextureScreenBlend",
+    "filter_display_name":"Screen",
+    "filter_class_name":"GCGImageFilterClass6",
+    "filter_icon":"gc_image_filter_screen_blend.png",
+    "filter_supported_ios_version":"5.0",
+    "filter_supported_iphone_model":"4",
+    "filter_supported_selection_style":"swipe",
+    "filter_enabled":"1",
+    "filter_parameters": {
+        "filter_texture_blend_name":"texturescreenblend",
+        "filter_texture_blend_image":"gc_image_filter_texture_screen_blend.jpg"
+    }
+}

@@ -1,0 +1,67 @@
+//
+//  Localizable.strings(Serbian)
+//  Resources
+//
+//  GCImageSDK
+//
+//  Created by Jianhui Ren on 14-7-8.
+//  Copyright (c) 2014年 Graphics China. All rights reserved.
+//
+
+"rc_save" = "Сачувај";
+"rc_image_picker_camera" = "Камера";
+"rc_image_picker_photo_library" = "Фото библиотека";
+"rc_settings_filter_selection" = "Избор филтера";
+"rc_crop_constrain_original" = "оригинал";
+"rc_crop_constrain_square" = "Квадрат";
+"rc_crop_constrain_2x3" = "2:3";
+"rc_crop_constrain_3к2" = "3:2";
+"rc_crop_constrain_3к5" = "3:5";
+"rc_crop_constrain_5к3" = "5:3";
+"rc_crop_constrain_3к4" = "3:4";
+"rc_crop_constrain_4к3" = "4:3";
+"rc_crop_constrain_4к5" = "4:5";
+"rc_crop_constrain_5к4" = "5:4";
+"rc_crop_constrain_5к7" = "5:7";
+"rc_crop_constrain_7к5" = "7:5";
+"rc_crop_constrain_16к9" = "16:9";
+"rc_crop_constrain_9к16" = "9:16";
+"rc_launch_screen_start_filtering_journey" = "Почетак";
+"rc_save_title" = "Честитамо!";
+"rc_save_message" = "Фото је сачуван у албум: %@";
+"rc_save_button_ok" = "У реду";
+"rc_settings_speed_fast" = "Брзи";
+"rc_settings_speed_slow" = "Слов";
+"rc_launch_screen_slogan" = "то може бити лепше!";
+"rc_launch_screen_slogan_powered_by" = "КоГрафика је поверед би GCImageSDK™";
+"rc_launch_screen_gcimagesdk_slogan" = "Маке иоур апп велики први утисак!";
+"rc_launch_screen_ads_invest_us" = "Инвест нас";
+"rc_launch_screen_ads_technology" = "Технологија";
+"rc_launch_screen_ads_business" = "Бизнис";
+"rc_launch_screen_ads_contact_us_by_email" = "support@graphicschina.com";
+"rc_introduction_graphics_china" = "Graphics China";
+"rc_introduction_graphics_china_copyright" = "Copyright@2015 Graphics China. All Rights Reserved.";
+"rc_introduction_graphics_china_leading" = "водећи глобални графичку технологију мобилни";
+"rc_introduction_gcimagesdk" = "GCImageSDK";
+"rc_introduction_open_platform" = "Отвори слику СДК платформа";
+"rc_introduction_permanent_free" = "Трајна Бесплатни";
+"rc_introduction_beautiful" = "Макес Апликације Лепа";
+"rc_introduction_powerful" = "Снажна Имаге Филтер";
+"rc_introduction_stable" = "Стабилно";
+"rc_introduction_efficient" = "Ефикасно";
+"rc_introduction_easy_to_integrate" = "Лако за интеграцију";
+"rc_introduction_even_two_lines_code" = "Чак и 2 Линија број";
+"rc_introduction_create_and_present" = "Цреате тхе контролер, а затим Пресент";
+"rc_introduction_embedded_filter_framework" = "Ембеддед филтер библиотека";
+"rc_introduction_embedded_full_functional_ui" = "Ембеддед са Фулл функционалним УИ";
+"rc_introduction_ui_style_can_be_changed" = "УИ стил се може променити Сходно томе";
+"rc_introduction_color_category" = "Боја";
+"rc_introduction_blend_category" = "мешавина";
+"rc_introduction_frame_category" = "Оквир";
+"rc_introduction_distort_category" = "Дисторт";
+"rc_introduction_blur_category" = "Блур";
+"rc_introduction_renews_continually" = "Обнавља Континуирано...";
+"rc_introduction_skip" = "Скип";
+"rc_introduction_let_app_create_great_images" = "Лет Иоур Апп створити Велику Имагес Лако";
+"rc_introduction_recommend_us" = "Молим Вас препоручити 'ГЦИмагеСДК' да Апп Девелоперс знаш!";
+"rc_introduction_find_us" = "Тражи 'ГЦИмагеСДК' на Гоогле/Баиду/Иахоо!/Иандек/...";

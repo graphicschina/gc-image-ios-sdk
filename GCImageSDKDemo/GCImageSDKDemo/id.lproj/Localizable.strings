@@ -1,0 +1,68 @@
+//
+//  Localizable.strings(Indonesian)
+//  Resources
+//
+//  GCImageSDK
+//
+//  Created by Jianhui Ren on 14-7-8.
+//  Copyright (c) 2014年 Graphics China. All rights reserved.
+//
+
+"rc_save" = "Simpan";
+"rc_image_picker_camera" = "Camera";
+"rc_image_picker_photo_library" = "Photo Library";
+"rc_settings_filter_selection" = "Filter Seleksi";
+"rc_crop_constrain_original" = "Original";
+"rc_crop_constrain_square" = "Square";
+"rc_crop_constrain_2x3" = "2:3";
+"rc_crop_constrain_3x2" = "3:2";
+"rc_crop_constrain_3x5" = "3:5";
+"rc_crop_constrain_5x3" = "5:3";
+"rc_crop_constrain_3x4" = "3:4";
+"rc_crop_constrain_4x3" = "4:3";
+"rc_crop_constrain_4x5" = "4:5";
+"rc_crop_constrain_5x4" = "5:4";
+"rc_crop_constrain_5x7" = "5:7";
+"rc_crop_constrain_7x5" = "7:5";
+"rc_crop_constrain_16x9" = "16:9";
+"rc_crop_constrain_9x16" = "9:16";
+"rc_launch_screen_start_filtering_journey" = "START";
+"rc_save_title" = "Congrats!";
+"rc_save_message" = "Foto telah disimpan dalam album: %@";
+"rc_save_button_ok" = "OK";
+"rc_settings_speed_fast" = "Cepat";
+"rc_settings_speed_slow" = "Slow";
+"rc_launch_screen_slogan" = "IT DAPAT LEBIH INDAH!";
+"rc_launch_screen_slogan_powered_by" = "CoGraphics didukung oleh GCImageSDK™";
+"rc_launch_screen_gcimagesdk_slogan" = "Membuat aplikasi Anda kesan pertama yang hebat!";
+"rc_launch_screen_ads_invest_us" = "Investasi Kami";
+"rc_launch_screen_ads_technology" = "Teknologi";
+"rc_launch_screen_ads_business" = "Bisnis";
+"rc_launch_screen_ads_contact_us_by_email" = "support@graphicschina.com";
+"rc_introduction_graphics_china" = "Graphics China";
+"rc_introduction_graphics_china_copyright" = "Copyright@2015 Graphics China. All Rights Reserved.";
+"rc_introduction_graphics_china_leading" = "Memimpin teknologi grafis mobile global";
+"rc_introduction_gcimagesdk" = "GCImageSDK";
+"rc_introduction_open_platform" = "Buka Gambar SDK Platform";
+"rc_introduction_permanent_free" = "Tetap Gratis";
+"rc_introduction_beautiful" = "Membuat Aplikasi Beautiful";
+"rc_introduction_powerful" = "Powerfull Gambar Filter";
+"rc_introduction_stable" = "Stabil";
+"rc_introduction_efficient" = "Efisien";
+"rc_introduction_easy_to_integrate" = "Mudah Mengintegrasikan";
+"rc_introduction_even_two_lines_code" = "Bahkan 2 Line Kode";
+"rc_introduction_create_and_present" = "Buat Controller, dan kemudian Present";
+"rc_introduction_embedded_filter_framework" = "Tertanam Filter Library";
+"rc_introduction_embedded_full_functional_ui" = "Tertanam dengan UI Fungsional penuh";
+"rc_introduction_ui_style_can_be_changed" = "UI Style Bisa Berubah Dengan demikian";
+"rc_introduction_color_category" = "Warna";
+"rc_introduction_blend_category" = "Blend";
+"rc_introduction_frame_category" = "Frame";
+"rc_introduction_distort_category" = "Distort";
+"rc_introduction_blur_category" = "Blur";
+"rc_introduction_renews_continually" = "Memperbarui Terus...";
+"rc_introduction_skip" = "Buka";
+"rc_introduction_let_app_create_great_images" = "Biarkan App Anda Membuat Gambar Besar Mudah";
+"rc_introduction_recommend_us" = "Silahkan merekomendasikan GCImageSDK ke App Pengembang Anda tahu!";
+"rc_introduction_find_us" = "Cari 'GCImageSDK' di Google/Baidu/Yahoo!/Yandex/...";
+

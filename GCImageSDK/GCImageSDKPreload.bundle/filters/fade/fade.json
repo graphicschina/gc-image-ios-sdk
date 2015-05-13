@@ -1,0 +1,14 @@
+{
+    "interface_id":"10000000",
+    "filter_id":"30000002",
+    "filter_category_id":"00000003",
+    "filter_name":"Fade",
+    "filter_description":"Fade",
+    "filter_display_name":"Fade",
+    "filter_class_name":"GCCImageFilterClass12",
+    "filter_icon":"gc_image_filter_fade.png",
+    "filter_supported_ios_version":"7.0",
+    "filter_supported_iphone_model":"4",
+    "filter_supported_selection_style":"swipe",
+    "filter_enabled":"1"
+}

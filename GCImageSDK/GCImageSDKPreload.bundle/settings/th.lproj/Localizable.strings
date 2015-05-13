@@ -1,0 +1,49 @@
+//
+//  Localizable.strings(Thai)
+//  Resources
+//
+//  GCImageSDK
+//
+//  Created by Graphics China on 14-7-8.
+//  Copyright (c) 2014年 Graphics China. All rights reserved.
+//
+
+"rc_settings_image_quality" = "คุณภาพของภาพ";
+"rc_settings_auto_save_to_photo_library" = "บันทึกอัตโนมัติเพื่อ app อัลบั้ม";
+"rc_settings_image_quality_low_definition" = "1248px (ทั่วไป)";
+"rc_settings_image_quality_standard_definition" = "1800px (Standard)";
+"rc_settings_image_quality_high_definition" = "2448px (HD)";
+"rc_settings_support_screen_rotation" = "การสนับสนุนการหมุนหน้าจอ";
+"rc_settings_about" = "เกี่ยวกับ";
+"rc_settings_filter_selection_animation" = "กรองเลือกนิเมชั่น";
+"rc_settings_filter_selection_animation_none" = "ไม่มี";
+"rc_settings_filter_selection_animation_ripple" = "ระลอก";
+"rc_settings_filter_selection_animation_cube" = "Cube";
+"rc_settings_filter_selection_animation_push" = "กด";
+"rc_settings_filter_selection_animation_movein" = "MoveIn";
+"rc_settings_filter_selection_animation_reveal" = "เปิดเผย";
+"rc_settings_filter_selection_animation_fade" = "เฟด";
+"rc_settings_filter_selection_animation_pagecurl" = "PageCurl";
+"rc_settings_filter_selection_animation_pageuncurl" = "PageUnCurl";
+"rc_settings_filter_selection_animation_suck" = "ดูด";
+"rc_settings_filter_selection_animation_oglflip" = "พลิก";
+"rc_settings_filter_selection_animation_camera_iris_hollow_open" = "กล้องไอริสฮอลโลว์เปิด";
+"rc_settings_filter_selection_animation_camera_iris_hollow_close" = "กล้องไอริสฮอลโลว์ปิด";
+"rc_settings_filter_selection_animation_curl_down" = "Curl ลง";
+"rc_settings_filter_selection_animation_curl_up" = "Curl Up";
+"rc_settings_filter_selection_animation_flip_from_left" = "พลิกจากซ้าย";
+"rc_settings_filter_selection_animation_flip_from_right" = "พลิกจากขวา";
+"rc_settings_filter_selection_animation_direction" = "กรองทิศทางการเลือกนิเมชั่น";
+"rc_settings_filter_selection_animation_direction_from_left" = "จากซ้าย";
+"rc_settings_filter_selection_animation_direction_from_right" = "จากขวา";
+"rc_settings_filter_selection_animation_direction_from_top" = "จากด้านล่าง";
+"rc_settings_filter_selection_animation_direction_from_bottom" = "จากด้านบน";
+"rc_settings_filter_selection_animation_duration" = "กรองระยะเวลานิเมชั่นการเลือก";
+"rc_settings_filter_toolbar_locate_at_side" = "เมื่อแถบเครื่องมือค้นหาภูมิทัศน์ที่";
+"rc_settings_filter_toolbar_locate_at_left" = "ซ้าย";
+"rc_settings_filter_toolbar_locate_at_right" = "ขวา";
+"rc_settings_current_theme_index" = "เลือกธีม";
+"rc_settings_theme_default" = "เริ่มต้น (ลึกสีเทาอวกาศ)";
+"rc_settings_theme_light_pink" = "สีชมพูเชอร์รี่";
+"rc_settings_theme_light_green" = "สะอาดสีเขียวสด";
+"rc_locale_suffix" = "th";

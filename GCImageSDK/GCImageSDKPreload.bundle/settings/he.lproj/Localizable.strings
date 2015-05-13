@@ -1,0 +1,49 @@
+//
+//  Localizable.strings(Hebrew)
+//  Resources
+//
+//  GCImageSDK
+//
+//  Created by Graphics China on 14-7-8.
+//  Copyright (c) 2014年 Graphics China. All rights reserved.
+//
+
+"rc_settings_image_quality" = "איכות תמונה";
+"rc_settings_auto_save_to_photo_library" = "Auto Save To App האלבום";
+"rc_settings_image_quality_low_definition" = "1248px (כללי)";
+"rc_settings_image_quality_standard_definition" = "1800px (רגיל)";
+"rc_settings_image_quality_high_definition" = "2448px (HD)";
+"rc_settings_support_screen_rotation" = "סיבוב מסך תמיכה";
+"rc_settings_about" = "אודות";
+"rc_settings_filter_selection_animation" = "בחירת מסנן אנימציה";
+"rc_settings_filter_selection_animation_none" = "ללא";
+"rc_settings_filter_selection_animation_ripple" = "Ripple";
+"rc_settings_filter_selection_animation_cube" = "קובייה";
+"rc_settings_filter_selection_animation_push" = "Push";
+"rc_settings_filter_selection_animation_movein" = "MoveIn";
+"rc_settings_filter_selection_animation_reveal" = "לחשוף";
+"rc_settings_filter_selection_animation_fade" = "Fade";
+"rc_settings_filter_selection_animation_pagecurl" = "PageCurl";
+"rc_settings_filter_selection_animation_pageuncurl" = "PageUnCurl";
+"rc_settings_filter_selection_animation_suck" = "תמצוץ";
+"rc_settings_filter_selection_animation_oglflip" = "Flip";
+"rc_settings_filter_selection_animation_camera_iris_hollow_open" = "מצלמה איריס חלולה פתוח";
+"rc_settings_filter_selection_animation_camera_iris_hollow_close" = "מצלמה איריס חלולה סגור";
+"rc_settings_filter_selection_animation_curl_down" = "קורל Down";
+"rc_settings_filter_selection_animation_curl_up" = "תלתל";
+"rc_settings_filter_selection_animation_flip_from_left" = "פליפ משמאל";
+"rc_settings_filter_selection_animation_flip_from_right" = "פליפ מימין";
+"rc_settings_filter_selection_animation_direction" = "סנן כיוון בחירת אנימציה";
+"rc_settings_filter_selection_animation_direction_from_left" = "משמאל";
+"rc_settings_filter_selection_animation_direction_from_right" = "מימין";
+"rc_settings_filter_selection_animation_direction_from_top" = "מתחתון";
+"rc_settings_filter_selection_animation_direction_from_bottom" = "מלמעלה";
+"rc_settings_filter_selection_animation_duration" = "סנן משך בחירת אנימציה";
+"rc_settings_filter_toolbar_locate_at_side" = "כאשר נוף סרגל הכלים לאתר ב";
+"rc_settings_filter_toolbar_locate_at_left" = "שמאל";
+"rc_settings_filter_toolbar_locate_at_right" = "ימין";
+"rc_settings_current_theme_index" = "נושא בחירה";
+"rc_settings_theme_default" = "ברירת המחדל (Deep Space גריי)";
+"rc_settings_theme_light_pink" = "Cherry Pink";
+"rc_settings_theme_light_green" = "נקי טרי ירוק";
+"rc_locale_suffix" = "HE";

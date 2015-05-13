@@ -1,0 +1,42 @@
+{
+    "interface_id":"10000000",
+    "filter_category_id":"00000006",
+    "filter_id":"60000002",
+    "filter_name":"Mosaic",
+    "filter_description":"Mosaic",
+    "filter_display_name":"Mosaic",
+    "filter_class_name":"GCCImageFilterClass15",
+    "filter_icon":"gc_image_filter_mosaic.png",
+    "filter_supported_ios_version":"6.0",
+    "filter_supported_iphone_model":"4",
+    "filter_supported_selection_style":"swipe",
+    "filter_enabled":"1",
+    "filter_parameters": {
+        "filter_mosaic_scale":60.0
+    },
+    "filter_parameter_ranges": [
+        {
+        "filter_mosaic_scale": {
+            "maxinum_value":500.0,
+            "minimum_value":0.0
+            }
+        }
+    ],
+    "filter_overlay_control": {
+        "filter_control_class_name":"GCGeneralOverlayView",
+        "filter_control_frame":"{{0, 200}, {320, 50}}",
+        "filter_control_alpha":0.5
+    },
+    "filter_controls": [
+        {
+        "filter_control": {
+            "filter_control_class_name":"GCSlider",
+            "filter_control_frame":"{{0, 10}, {320, 50}}",
+            "filter_control_parameter_name":"filter_mosaic_scale",
+            "filter_control_maximum_value":500.0,
+            "filter_control_minimum_value":0.0,
+            "filter_control_default_value":60.0
+            }
+        }
+    ]
+}
