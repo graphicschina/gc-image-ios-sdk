@@ -240,3 +240,10 @@ more filters will be added continually, and could be updated online.
 
 More detailed info about GCImageSDK usage, please see the GCImageSDKDemo project in the package.
 
+
+#### Reference
+
+CoGraphics is a reference iOS app for GCImageSDK. It demostrates all functionalities GCImageSDK can provide. You can find it by,
+
+- Search "CoGraphics" in the App Store;
+- Access it directly in App Store: https://itunes.apple.com/us/app/cographics/id988889205?l=en&ls=1&mt=8

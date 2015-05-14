@@ -237,3 +237,11 @@ SDK 包中的 GCImageSDKDemo 展示了如何获取特效处理相关的信息，
 ![](images/gc-image-sdk-usage-demo-macro-filter-image-zh.png)
 
 更多详细的使用方法，请参见 SDK 包中的 GCImageSDKDemo。
+
+#### 参考实现
+
+可图(CoGraphics)是 GCImageSDK 的一个参考实现，展现了通过 GCImageSDK 可以实现所有的功能。您可以
+
+- 在 App Store 搜索 “CoGraphics” 或者“可图”来找到它；
+- https://itunes.apple.com/us/app/cographics/id988889205?l=zh&ls=1&mt=8 直接在 App Store 中访问。
+
